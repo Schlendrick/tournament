@@ -1,0 +1,4733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlTournamentSchedule>
+    <matches>
+        <dateTime>2022-06-26T09:08</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Abdelkader Ibn Kharuf</homeTeam>
+        <visitorTeam>Das A-Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:22</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Dnjepr Dnjepropetrowsk Elite</homeTeam>
+        <visitorTeam>Jugo Bonito</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:36</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Marlboro Rot</homeTeam>
+        <visitorTeam>Abdelkader Ibn Kharuf</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:50</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Das A-Team</homeTeam>
+        <visitorTeam>Dnjepr Dnjepropetrowsk Elite</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:04</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Marlboro Rot</homeTeam>
+        <visitorTeam>Jugo Bonito</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:18</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Abdelkader Ibn Kharuf</homeTeam>
+        <visitorTeam>Dnjepr Dnjepropetrowsk Elite</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:32</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Jugo Bonito</homeTeam>
+        <visitorTeam>Das A-Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:46</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Dnjepr Dnjepropetrowsk Elite</homeTeam>
+        <visitorTeam>Marlboro Rot</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:00</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Jugo Bonito</homeTeam>
+        <visitorTeam>Abdelkader Ibn Kharuf</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:14</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.1</game>
+        <homeTeam>Das A-Team</homeTeam>
+        <visitorTeam>Marlboro Rot</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:30</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Dampflokomotive</homeTeam>
+        <visitorTeam>Familia Pinto Herisau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:44</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Vardy schon 16</homeTeam>
+        <visitorTeam>Kurzhaarschnitt Karim Benzema</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:12</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Kurzhaarschnitt Karim Benzema</homeTeam>
+        <visitorTeam>Dampflokomotive</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:26</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Familia Pinto Herisau</homeTeam>
+        <visitorTeam>Vardy schon 16</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:54</dateTime>
+        <field>3</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Dampflokomotive</homeTeam>
+        <visitorTeam>Vardy schon 16</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:54</dateTime>
+        <field>4</field>
+        <game>A Vorrunde  Gr.2</game>
+        <homeTeam>Kurzhaarschnitt Karim Benzema</homeTeam>
+        <visitorTeam>Familia Pinto Herisau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:50</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>AJAX dauerstramm</homeTeam>
+        <visitorTeam>FC Dynamit</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:50</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>Wurst-United</homeTeam>
+        <visitorTeam>nakitumiyashi</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:18</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>nakitumiyashi</homeTeam>
+        <visitorTeam>AJAX dauerstramm</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:18</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>FC Dynamit</homeTeam>
+        <visitorTeam>Wurst-United</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:46</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>AJAX dauerstramm</homeTeam>
+        <visitorTeam>Wurst-United</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:46</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.3</game>
+        <homeTeam>nakitumiyashi</homeTeam>
+        <visitorTeam>FC Dynamit</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:04</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>damol ohni enz</homeTeam>
+        <visitorTeam>Delicias España</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:04</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>Tiempo Jässler</homeTeam>
+        <visitorTeam>s'Droiii</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:32</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>s'Droiii</homeTeam>
+        <visitorTeam>damol ohni enz</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:32</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>Delicias España</homeTeam>
+        <visitorTeam>Tiempo Jässler</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:00</dateTime>
+        <field>1</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>damol ohni enz</homeTeam>
+        <visitorTeam>Tiempo Jässler</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:00</dateTime>
+        <field>2</field>
+        <game>A Vorrunde  Gr.4</game>
+        <homeTeam>s'Droiii</homeTeam>
+        <visitorTeam>Delicias España</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:06</dateTime>
+        <field>1</field>
+        <game>A 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:06</dateTime>
+        <field>2</field>
+        <game>A 4tels Final  Gr.B</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:06</dateTime>
+        <field>3</field>
+        <game>A 4tels Final  Gr.C</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:06</dateTime>
+        <field>4</field>
+        <game>A 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:16</dateTime>
+        <field>1</field>
+        <game>A Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:16</dateTime>
+        <field>2</field>
+        <game>A Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:44</dateTime>
+        <field>1</field>
+        <game>A 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T16:36</dateTime>
+        <field>1</field>
+        <game>A Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:04</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>BIRRAREAL</homeTeam>
+        <visitorTeam>Der Klügere kippt nach</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:04</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>Spinnsieche</homeTeam>
+        <visitorTeam>Jedä einä nä! #guätprobiert</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:46</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>Jedä einä nä! #guätprobiert</homeTeam>
+        <visitorTeam>BIRRAREAL</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:46</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>Der Klügere kippt nach</homeTeam>
+        <visitorTeam>Spinnsieche</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:14</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>BIRRAREAL</homeTeam>
+        <visitorTeam>Spinnsieche</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:14</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.1</game>
+        <homeTeam>Jedä einä nä! #guätprobiert</homeTeam>
+        <visitorTeam>Der Klügere kippt nach</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:36</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>Chrampf im Chiefer</homeTeam>
+        <visitorTeam>D‘Jagger</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:36</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>Veloklub Brambode</homeTeam>
+        <visitorTeam>Dnjepr Dnjepropetrowsk Halbsc</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:04</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>Dnjepr Dnjepropetrowsk Halbsc</homeTeam>
+        <visitorTeam>Chrampf im Chiefer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:04</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>D‘Jagger</homeTeam>
+        <visitorTeam>Veloklub Brambode</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:32</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>Chrampf im Chiefer</homeTeam>
+        <visitorTeam>Veloklub Brambode</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:32</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.2</game>
+        <homeTeam>Dnjepr Dnjepropetrowsk Halbsc</homeTeam>
+        <visitorTeam>D‘Jagger</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:32</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>AJAX dauerstramm (B)</homeTeam>
+        <visitorTeam>Die Vechrampfte Gashene</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:32</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>Krawallbande</homeTeam>
+        <visitorTeam>fc internazioneale</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:00</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>fc internazioneale</homeTeam>
+        <visitorTeam>AJAX dauerstramm (B)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:00</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>Die Vechrampfte Gashene</homeTeam>
+        <visitorTeam>Krawallbande</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:28</dateTime>
+        <field>3</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>AJAX dauerstramm (B)</homeTeam>
+        <visitorTeam>Krawallbande</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:28</dateTime>
+        <field>4</field>
+        <game>B Vorrunde  Gr.3</game>
+        <homeTeam>fc internazioneale</homeTeam>
+        <visitorTeam>Die Vechrampfte Gashene</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:46</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>FC Komirax</homeTeam>
+        <visitorTeam>GegeGege</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:46</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>Swingerclub (B)</homeTeam>
+        <visitorTeam>On Lii</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:14</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>On Lii</homeTeam>
+        <visitorTeam>FC Komirax</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:14</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>GegeGege</homeTeam>
+        <visitorTeam>Swingerclub (B)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:42</dateTime>
+        <field>1</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>FC Komirax</homeTeam>
+        <visitorTeam>Swingerclub (B)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:42</dateTime>
+        <field>2</field>
+        <game>B Vorrunde  Gr.4</game>
+        <homeTeam>On Lii</homeTeam>
+        <visitorTeam>GegeGege</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:52</dateTime>
+        <field>1</field>
+        <game>B 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:52</dateTime>
+        <field>2</field>
+        <game>B 4tels Final  Gr.B</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:52</dateTime>
+        <field>3</field>
+        <game>B 4tels Final  Gr.C</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:52</dateTime>
+        <field>4</field>
+        <game>B 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:02</dateTime>
+        <field>3</field>
+        <game>B Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:02</dateTime>
+        <field>4</field>
+        <game>B Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:44</dateTime>
+        <field>3</field>
+        <game>B 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T16:08</dateTime>
+        <field>1</field>
+        <game>B Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:34</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Fizzybubbele</homeTeam>
+        <visitorTeam>Grennizäpfe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:02</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Sauhondflight</homeTeam>
+        <visitorTeam>SC Freibier</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:30</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Teppich-Veteidige</homeTeam>
+        <visitorTeam>Fizzybubbele</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:44</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Grennizäpfe</homeTeam>
+        <visitorTeam>Sauhondflight</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:58</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Teppich-Veteidige</homeTeam>
+        <visitorTeam>SC Freibier</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:12</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Fizzybubbele</homeTeam>
+        <visitorTeam>Sauhondflight</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:26</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>SC Freibier</homeTeam>
+        <visitorTeam>Grennizäpfe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:40</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Sauhondflight</homeTeam>
+        <visitorTeam>Teppich-Veteidige</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:54</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>SC Freibier</homeTeam>
+        <visitorTeam>Fizzybubbele</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:08</dateTime>
+        <field>1</field>
+        <game>C Vorrunde  Gr.1</game>
+        <homeTeam>Grennizäpfe</homeTeam>
+        <visitorTeam>Teppich-Veteidige</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:34</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>De letscht Sieger vom Ziel</homeTeam>
+        <visitorTeam>Goookewasso</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:02</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>JFA</homeTeam>
+        <visitorTeam>Möslis Knappen 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:30</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Möslis Knappen 2</homeTeam>
+        <visitorTeam>De letscht Sieger vom Ziel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:44</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Goookewasso</homeTeam>
+        <visitorTeam>JFA</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:58</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Möslis Knappen 2</homeTeam>
+        <visitorTeam>Möslis Knappen 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:12</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>De letscht Sieger vom Ziel</homeTeam>
+        <visitorTeam>JFA</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:26</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Möslis Knappen 1</homeTeam>
+        <visitorTeam>Goookewasso</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:40</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>JFA</homeTeam>
+        <visitorTeam>Möslis Knappen 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:54</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Möslis Knappen 1</homeTeam>
+        <visitorTeam>De letscht Sieger vom Ziel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:08</dateTime>
+        <field>2</field>
+        <game>C Vorrunde  Gr.2</game>
+        <homeTeam>Goookewasso</homeTeam>
+        <visitorTeam>Möslis Knappen 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:34</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Ohne fleiss kein Reis</homeTeam>
+        <visitorTeam>SV Bosna Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:02</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Swingerclub ©</homeTeam>
+        <visitorTeam>Team Sonnebueb United</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:30</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Teppich Stürmer</homeTeam>
+        <visitorTeam>Ohne fleiss kein Reis</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:44</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>SV Bosna Appenzell</homeTeam>
+        <visitorTeam>Swingerclub ©</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:58</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Teppich Stürmer</homeTeam>
+        <visitorTeam>Team Sonnebueb United</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:12</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Ohne fleiss kein Reis</homeTeam>
+        <visitorTeam>Swingerclub ©</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:26</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Team Sonnebueb United</homeTeam>
+        <visitorTeam>SV Bosna Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:40</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Swingerclub ©</homeTeam>
+        <visitorTeam>Teppich Stürmer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:54</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>Team Sonnebueb United</homeTeam>
+        <visitorTeam>Ohne fleiss kein Reis</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:08</dateTime>
+        <field>3</field>
+        <game>C Vorrunde  Gr.3</game>
+        <homeTeam>SV Bosna Appenzell</homeTeam>
+        <visitorTeam>Teppich Stürmer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:34</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>1. FC Tagwach</homeTeam>
+        <visitorTeam>Gontne</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:02</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Gulgrön Hammarstrand</homeTeam>
+        <visitorTeam>Pfäuelebuebe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:30</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Zustand Akzeptabel</homeTeam>
+        <visitorTeam>1. FC Tagwach</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:44</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Gontne</homeTeam>
+        <visitorTeam>Gulgrön Hammarstrand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:58</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Zustand Akzeptabel</homeTeam>
+        <visitorTeam>Pfäuelebuebe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:12</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>1. FC Tagwach</homeTeam>
+        <visitorTeam>Gulgrön Hammarstrand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:26</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Pfäuelebuebe</homeTeam>
+        <visitorTeam>Gontne</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:40</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Gulgrön Hammarstrand</homeTeam>
+        <visitorTeam>Zustand Akzeptabel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T15:54</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Pfäuelebuebe</homeTeam>
+        <visitorTeam>1. FC Tagwach</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:08</dateTime>
+        <field>4</field>
+        <game>C Vorrunde  Gr.4</game>
+        <homeTeam>Gontne</homeTeam>
+        <visitorTeam>Zustand Akzeptabel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:28</dateTime>
+        <field>1</field>
+        <game>C 8tels Final  Gr.1a</game>
+        <homeTeam>M1a</homeTeam>
+        <visitorTeam>M2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:28</dateTime>
+        <field>2</field>
+        <game>C 8tels Final  Gr.2d</game>
+        <homeTeam>M3b</homeTeam>
+        <visitorTeam>M4c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:28</dateTime>
+        <field>3</field>
+        <game>C 8tels Final  Gr.1c</game>
+        <homeTeam>M1d</homeTeam>
+        <visitorTeam>M2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:28</dateTime>
+        <field>4</field>
+        <game>C 8tels Final  Gr.2b</game>
+        <homeTeam>M3c</homeTeam>
+        <visitorTeam>M4b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:42</dateTime>
+        <field>1</field>
+        <game>C 8tels Final  Gr.1d</game>
+        <homeTeam>M3a</homeTeam>
+        <visitorTeam>M4d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:42</dateTime>
+        <field>2</field>
+        <game>C 8tels Final  Gr.2a</game>
+        <homeTeam>M1b</homeTeam>
+        <visitorTeam>M2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:42</dateTime>
+        <field>3</field>
+        <game>C 8tels Final  Gr.1b</game>
+        <homeTeam>M3d</homeTeam>
+        <visitorTeam>M4a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:42</dateTime>
+        <field>4</field>
+        <game>C 8tels Final  Gr.2c</game>
+        <homeTeam>M1c</homeTeam>
+        <visitorTeam>M2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:20</dateTime>
+        <field>1</field>
+        <game>C 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:20</dateTime>
+        <field>2</field>
+        <game>C 4tels Final  Gr.B</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:20</dateTime>
+        <field>3</field>
+        <game>C 4tels Final  Gr.C</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:20</dateTime>
+        <field>4</field>
+        <game>C 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:02</dateTime>
+        <field>1</field>
+        <game>C Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:02</dateTime>
+        <field>2</field>
+        <game>C Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:44</dateTime>
+        <field>2</field>
+        <game>C 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T15:54</dateTime>
+        <field>1</field>
+        <game>C Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:00</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Chupapi</homeTeam>
+        <visitorTeam>Getu-Power-Girls</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:14</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Me sönd di beste punkt</homeTeam>
+        <visitorTeam>Meeschrüütner Wild-Boys</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:28</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Sali Bonani</homeTeam>
+        <visitorTeam>Chupapi</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:42</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Getu-Power-Girls</homeTeam>
+        <visitorTeam>Me sönd di beste punkt</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:56</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Sali Bonani</homeTeam>
+        <visitorTeam>Meeschrüütner Wild-Boys</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:10</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Chupapi</homeTeam>
+        <visitorTeam>Me sönd di beste punkt</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:24</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Meeschrüütner Wild-Boys</homeTeam>
+        <visitorTeam>Getu-Power-Girls</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:38</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Me sönd di beste punkt</homeTeam>
+        <visitorTeam>Sali Bonani</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:52</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Meeschrüütner Wild-Boys</homeTeam>
+        <visitorTeam>Chupapi</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:06</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.1</game>
+        <homeTeam>Getu-Power-Girls</homeTeam>
+        <visitorTeam>Sali Bonani</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:22</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Die gedopten Schlümpfe</homeTeam>
+        <visitorTeam>Die Wilden Kerle New Generati</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:22</dateTime>
+        <field>2</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Gontner Whiskers</homeTeam>
+        <visitorTeam>Easy Clap</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:50</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Easy Clap</homeTeam>
+        <visitorTeam>Die gedopten Schlümpfe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:50</dateTime>
+        <field>2</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Die Wilden Kerle New Generati</homeTeam>
+        <visitorTeam>Gontner Whiskers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:18</dateTime>
+        <field>1</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Die gedopten Schlümpfe</homeTeam>
+        <visitorTeam>Gontner Whiskers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:18</dateTime>
+        <field>2</field>
+        <game>Da Vorrunde  Gr.2</game>
+        <homeTeam>Easy Clap</homeTeam>
+        <visitorTeam>Die Wilden Kerle New Generati</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:24</dateTime>
+        <field>1</field>
+        <game>Da 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:24</dateTime>
+        <field>2</field>
+        <game>Da 4tels Final  Gr.B</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:24</dateTime>
+        <field>3</field>
+        <game>Da 4tels Final  Gr.C</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:24</dateTime>
+        <field>4</field>
+        <game>Da 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:48</dateTime>
+        <field>1</field>
+        <game>Da Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:48</dateTime>
+        <field>2</field>
+        <game>Da Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:30</dateTime>
+        <field>1</field>
+        <game>Da 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T15:26</dateTime>
+        <field>1</field>
+        <game>Da Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:08</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Benjamin Bierchen</homeTeam>
+        <visitorTeam>FC Biercelona (D)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:22</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Helen ohni e, also hln</homeTeam>
+        <visitorTeam>JLINSAJRL</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:36</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Team</homeTeam>
+        <visitorTeam>Benjamin Bierchen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:50</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>FC Biercelona (D)</homeTeam>
+        <visitorTeam>Helen ohni e, also hln</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:04</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Team</homeTeam>
+        <visitorTeam>JLINSAJRL</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:18</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Benjamin Bierchen</homeTeam>
+        <visitorTeam>Helen ohni e, also hln</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:32</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>JLINSAJRL</homeTeam>
+        <visitorTeam>FC Biercelona (D)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T10:46</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>Helen ohni e, also hln</homeTeam>
+        <visitorTeam>Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:00</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>JLINSAJRL</homeTeam>
+        <visitorTeam>Benjamin Bierchen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:14</dateTime>
+        <field>4</field>
+        <game>D Vorrunde  Gr.1</game>
+        <homeTeam>FC Biercelona (D)</homeTeam>
+        <visitorTeam>Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:16</dateTime>
+        <field>3</field>
+        <game>D Halbfinal  Gr.AB</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>1d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:16</dateTime>
+        <field>4</field>
+        <game>D Halbfinal  Gr.CD</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>1c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:44</dateTime>
+        <field>4</field>
+        <game>D 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T16:22</dateTime>
+        <field>1</field>
+        <game>D Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:36</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Delicias España (Db)</homeTeam>
+        <visitorTeam>Die Schnöllschte</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:36</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Schienbeinbrecher</homeTeam>
+        <visitorTeam>Grashüpfer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:04</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Grashüpfer</homeTeam>
+        <visitorTeam>Delicias España (Db)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:04</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Die Schnöllschte</homeTeam>
+        <visitorTeam>Schienbeinbrecher</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:32</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Delicias España (Db)</homeTeam>
+        <visitorTeam>Schienbeinbrecher</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:32</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.1</game>
+        <homeTeam>Grashüpfer</homeTeam>
+        <visitorTeam>Die Schnöllschte</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:50</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Die 8 schnellen aus Steinegg</homeTeam>
+        <visitorTeam>Meschrütner Teufelskicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:50</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Zick Zack Knaller</homeTeam>
+        <visitorTeam>Mis Lieblingsteam</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:18</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Mis Lieblingsteam</homeTeam>
+        <visitorTeam>Die 8 schnellen aus Steinegg</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:18</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Meschrütner Teufelskicker</homeTeam>
+        <visitorTeam>Zick Zack Knaller</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:46</dateTime>
+        <field>1</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Die 8 schnellen aus Steinegg</homeTeam>
+        <visitorTeam>Zick Zack Knaller</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:46</dateTime>
+        <field>2</field>
+        <game>Db Vorrunde  Gr.2</game>
+        <homeTeam>Mis Lieblingsteam</homeTeam>
+        <visitorTeam>Meschrütner Teufelskicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:50</dateTime>
+        <field>3</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>Die acht Girl-Kicker</homeTeam>
+        <visitorTeam>Gontner Superstars</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:50</dateTime>
+        <field>4</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>Wissbad Kickers</homeTeam>
+        <visitorTeam>hala madrid</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:18</dateTime>
+        <field>3</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>hala madrid</homeTeam>
+        <visitorTeam>Die acht Girl-Kicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:18</dateTime>
+        <field>4</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>Gontner Superstars</homeTeam>
+        <visitorTeam>Wissbad Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:46</dateTime>
+        <field>3</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>Die acht Girl-Kicker</homeTeam>
+        <visitorTeam>Wissbad Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:46</dateTime>
+        <field>4</field>
+        <game>Db Vorrunde  Gr.3</game>
+        <homeTeam>hala madrid</homeTeam>
+        <visitorTeam>Gontner Superstars</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:14</dateTime>
+        <field>1</field>
+        <game>Db Zwischenrunde  Gr.1</game>
+        <homeTeam>ZW11</homeTeam>
+        <visitorTeam>ZW12</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:14</dateTime>
+        <field>2</field>
+        <game>Db Zwischenrunde  Gr.2</game>
+        <homeTeam>ZW21</homeTeam>
+        <visitorTeam>ZW22</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:10</dateTime>
+        <field>1</field>
+        <game>Db 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>ZR1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:10</dateTime>
+        <field>2</field>
+        <game>Db 4tels Final  Gr.B</game>
+        <homeTeam>2b</homeTeam>
+        <visitorTeam>3b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:10</dateTime>
+        <field>3</field>
+        <game>Db 4tels Final  Gr.C</game>
+        <homeTeam>3a</homeTeam>
+        <visitorTeam>ZR2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:10</dateTime>
+        <field>4</field>
+        <game>Db 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:34</dateTime>
+        <field>3</field>
+        <game>Db Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:34</dateTime>
+        <field>4</field>
+        <game>Db Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:30</dateTime>
+        <field>2</field>
+        <game>Db 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T15:12</dateTime>
+        <field>1</field>
+        <game>Db Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:00</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Ball Banditen</homeTeam>
+        <visitorTeam>Die Teufelskicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:14</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Gontner Stürmer (Dc)</homeTeam>
+        <visitorTeam>Goofe vom Lehn</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:28</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Meschrütner Kickers</homeTeam>
+        <visitorTeam>Ball Banditen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:42</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Die Teufelskicker</homeTeam>
+        <visitorTeam>Gontner Stürmer (Dc)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:56</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Meschrütner Kickers</homeTeam>
+        <visitorTeam>Goofe vom Lehn</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:10</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Ball Banditen</homeTeam>
+        <visitorTeam>Gontner Stürmer (Dc)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:24</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Goofe vom Lehn</homeTeam>
+        <visitorTeam>Die Teufelskicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:38</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Gontner Stürmer (Dc)</homeTeam>
+        <visitorTeam>Meschrütner Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:52</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Goofe vom Lehn</homeTeam>
+        <visitorTeam>Ball Banditen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:06</dateTime>
+        <field>2</field>
+        <game>Dc Vorrunde  Gr.1</game>
+        <homeTeam>Die Teufelskicker</homeTeam>
+        <visitorTeam>Meschrütner Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:36</dateTime>
+        <field>3</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Ball-Kickers</homeTeam>
+        <visitorTeam>Die wilden Appenzeller</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:36</dateTime>
+        <field>4</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Teufels-Kicker</homeTeam>
+        <visitorTeam>Team Döner</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:04</dateTime>
+        <field>3</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Team Döner</homeTeam>
+        <visitorTeam>Ball-Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:04</dateTime>
+        <field>4</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Die wilden Appenzeller</homeTeam>
+        <visitorTeam>Teufels-Kicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:32</dateTime>
+        <field>3</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Ball-Kickers</homeTeam>
+        <visitorTeam>Teufels-Kicker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:32</dateTime>
+        <field>4</field>
+        <game>Dc Vorrunde  Gr.2</game>
+        <homeTeam>Team Döner</homeTeam>
+        <visitorTeam>Die wilden Appenzeller</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:56</dateTime>
+        <field>1</field>
+        <game>Dc 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:56</dateTime>
+        <field>2</field>
+        <game>Dc 4tels Final  Gr.B</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:56</dateTime>
+        <field>3</field>
+        <game>Dc 4tels Final  Gr.C</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T11:56</dateTime>
+        <field>4</field>
+        <game>Dc 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:34</dateTime>
+        <field>1</field>
+        <game>Dc Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:34</dateTime>
+        <field>2</field>
+        <game>Dc Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:30</dateTime>
+        <field>3</field>
+        <game>Dc 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:58</dateTime>
+        <field>1</field>
+        <game>Dc Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:30</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Bier-Elite</homeTeam>
+        <visitorTeam>Gontner Stürmer (JS1)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:44</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Goofys</homeTeam>
+        <visitorTeam>Holzhacker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:58</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Teletubies</homeTeam>
+        <visitorTeam>Bier-Elite</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:12</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Gontner Stürmer (JS1)</homeTeam>
+        <visitorTeam>Goofys</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:26</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Teletubies</homeTeam>
+        <visitorTeam>Holzhacker</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:40</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Bier-Elite</homeTeam>
+        <visitorTeam>Goofys</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:54</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Holzhacker</homeTeam>
+        <visitorTeam>Gontner Stürmer (JS1)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:08</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Goofys</homeTeam>
+        <visitorTeam>Teletubies</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:22</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Holzhacker</homeTeam>
+        <visitorTeam>Bier-Elite</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:36</dateTime>
+        <field>1</field>
+        <game>JS1 Vorrunde  Gr.1</game>
+        <homeTeam>Gontner Stürmer (JS1)</homeTeam>
+        <visitorTeam>Teletubies</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:30</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Amenakalium</homeTeam>
+        <visitorTeam>Die Golden Eagles</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:44</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Keanig</homeTeam>
+        <visitorTeam>Rickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T07:58</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Schneewittchen und die 7 Zwer</homeTeam>
+        <visitorTeam>Amenakalium</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:12</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Die Golden Eagles</homeTeam>
+        <visitorTeam>Keanig</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:26</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Schneewittchen und die 7 Zwer</homeTeam>
+        <visitorTeam>Rickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:40</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Amenakalium</homeTeam>
+        <visitorTeam>Keanig</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T08:54</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Rickers</homeTeam>
+        <visitorTeam>Die Golden Eagles</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:08</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Keanig</homeTeam>
+        <visitorTeam>Schneewittchen und die 7 Zwer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:22</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Rickers</homeTeam>
+        <visitorTeam>Amenakalium</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T09:36</dateTime>
+        <field>2</field>
+        <game>JS1 Vorrunde  Gr.2</game>
+        <homeTeam>Die Golden Eagles</homeTeam>
+        <visitorTeam>Schneewittchen und die 7 Zwer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:38</dateTime>
+        <field>1</field>
+        <game>JS1 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:38</dateTime>
+        <field>2</field>
+        <game>JS1 4tels Final  Gr.B</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:38</dateTime>
+        <field>3</field>
+        <game>JS1 4tels Final  Gr.C</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T12:38</dateTime>
+        <field>4</field>
+        <game>JS1 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:48</dateTime>
+        <field>3</field>
+        <game>JS1 Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T13:48</dateTime>
+        <field>4</field>
+        <game>JS1 Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T14:30</dateTime>
+        <field>4</field>
+        <game>JS1 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-26T15:40</dateTime>
+        <field>1</field>
+        <game>JS1 Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:15</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Bistro Alp Oberstofel</homeTeam>
+        <visitorTeam>contreva</visitorTeam>
+        <homeScore>1</homeScore>
+        <visitorScore>1</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:26</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Kafi Reut</homeTeam>
+        <visitorTeam>säntis packaging ag</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:37</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Wyon AG Eat, Sleep, Charge, R</homeTeam>
+        <visitorTeam>Bistro Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:48</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>contreva</homeTeam>
+        <visitorTeam>Kafi Reut</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:59</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Wyon AG Eat, Sleep, Charge, R</homeTeam>
+        <visitorTeam>säntis packaging ag</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:10</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Bistro Alp Oberstofel</homeTeam>
+        <visitorTeam>Kafi Reut</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:21</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>säntis packaging ag</homeTeam>
+        <visitorTeam>contreva</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:32</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>Kafi Reut</homeTeam>
+        <visitorTeam>Wyon AG Eat, Sleep, Charge, R</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:43</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>säntis packaging ag</homeTeam>
+        <visitorTeam>Bistro Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:54</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.1</game>
+        <homeTeam>contreva</homeTeam>
+        <visitorTeam>Wyon AG Eat, Sleep, Charge, R</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:15</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Bühler AG 2</homeTeam>
+        <visitorTeam>CORE Cornella AG / Refida AG</visitorTeam>
+        <homeScore>2</homeScore>
+        <visitorScore>2</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:26</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Hotel Alp Oberstofel</homeTeam>
+        <visitorTeam>Hundeschule Alpstein</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:37</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Uno Olivenöl</homeTeam>
+        <visitorTeam>Bühler AG 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:48</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>CORE Cornella AG / Refida AG</homeTeam>
+        <visitorTeam>Hotel Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:59</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Uno Olivenöl</homeTeam>
+        <visitorTeam>Hundeschule Alpstein</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:10</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Bühler AG 2</homeTeam>
+        <visitorTeam>Hotel Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:21</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Hundeschule Alpstein</homeTeam>
+        <visitorTeam>CORE Cornella AG / Refida AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:32</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Hotel Alp Oberstofel</homeTeam>
+        <visitorTeam>Uno Olivenöl</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:43</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>Hundeschule Alpstein</homeTeam>
+        <visitorTeam>Bühler AG 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:54</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.2</game>
+        <homeTeam>CORE Cornella AG / Refida AG</homeTeam>
+        <visitorTeam>Uno Olivenöl</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:15</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Bühler AG 1</homeTeam>
+        <visitorTeam>KUK Electronic AG TSU</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:26</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Restaurant Alp Oberstofel</homeTeam>
+        <visitorTeam>Werkhalle Tech AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:37</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Wyon AG Ös goht de Pfuus nüd </homeTeam>
+        <visitorTeam>Bühler AG 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:48</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>KUK Electronic AG TSU</homeTeam>
+        <visitorTeam>Restaurant Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:59</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Wyon AG Ös goht de Pfuus nüd </homeTeam>
+        <visitorTeam>Werkhalle Tech AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:10</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Bühler AG 1</homeTeam>
+        <visitorTeam>Restaurant Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:21</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Werkhalle Tech AG</homeTeam>
+        <visitorTeam>KUK Electronic AG TSU</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:32</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Restaurant Alp Oberstofel</homeTeam>
+        <visitorTeam>Wyon AG Ös goht de Pfuus nüd </visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:43</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>Werkhalle Tech AG</homeTeam>
+        <visitorTeam>Bühler AG 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:54</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.3</game>
+        <homeTeam>KUK Electronic AG TSU</homeTeam>
+        <visitorTeam>Wyon AG Ös goht de Pfuus nüd </visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:15</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Delicias España (FB)</homeTeam>
+        <visitorTeam>Simex Trading</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:26</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Wagner AG</homeTeam>
+        <visitorTeam>Werkhalle Schmid AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:37</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Wyon AG S' EES</homeTeam>
+        <visitorTeam>Delicias España (FB)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:48</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Simex Trading</homeTeam>
+        <visitorTeam>Wagner AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T16:59</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Wyon AG S' EES</homeTeam>
+        <visitorTeam>Werkhalle Schmid AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:10</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Delicias España (FB)</homeTeam>
+        <visitorTeam>Wagner AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:21</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Werkhalle Schmid AG</homeTeam>
+        <visitorTeam>Simex Trading</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:32</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Wagner AG</homeTeam>
+        <visitorTeam>Wyon AG S' EES</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:43</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Werkhalle Schmid AG</homeTeam>
+        <visitorTeam>Delicias España (FB)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T17:54</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.4</game>
+        <homeTeam>Simex Trading</homeTeam>
+        <visitorTeam>Wyon AG S' EES</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:05</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Appenzeller Druckerei AG</homeTeam>
+        <visitorTeam>Johann Sutter AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:16</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Malerei DErrico</homeTeam>
+        <visitorTeam>Metallbau Gontenbad</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:27</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Zöri Versicherig Appezöll</homeTeam>
+        <visitorTeam>Appenzeller Druckerei AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:38</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Johann Sutter AG</homeTeam>
+        <visitorTeam>Malerei DErrico</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:49</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Zöri Versicherig Appezöll</homeTeam>
+        <visitorTeam>Metallbau Gontenbad</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:00</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Appenzeller Druckerei AG</homeTeam>
+        <visitorTeam>Malerei DErrico</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:11</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Metallbau Gontenbad</homeTeam>
+        <visitorTeam>Johann Sutter AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:22</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Malerei DErrico</homeTeam>
+        <visitorTeam>Zöri Versicherig Appezöll</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:33</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Metallbau Gontenbad</homeTeam>
+        <visitorTeam>Appenzeller Druckerei AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:44</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.5</game>
+        <homeTeam>Johann Sutter AG</homeTeam>
+        <visitorTeam>Zöri Versicherig Appezöll</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:05</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Bühler AG 3</homeTeam>
+        <visitorTeam>FC Wild &amp; Partner AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:16</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Fenster Dörig AG</homeTeam>
+        <visitorTeam>Hirn Automobile</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:27</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Zimmermann Str.- + Tiefbau</homeTeam>
+        <visitorTeam>Bühler AG 3</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:38</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>FC Wild &amp; Partner AG</homeTeam>
+        <visitorTeam>Fenster Dörig AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:49</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Zimmermann Str.- + Tiefbau</homeTeam>
+        <visitorTeam>Hirn Automobile</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:00</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Bühler AG 3</homeTeam>
+        <visitorTeam>Fenster Dörig AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:11</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Hirn Automobile</homeTeam>
+        <visitorTeam>FC Wild &amp; Partner AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:22</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Fenster Dörig AG</homeTeam>
+        <visitorTeam>Zimmermann Str.- + Tiefbau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:33</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>Hirn Automobile</homeTeam>
+        <visitorTeam>Bühler AG 3</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:44</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.6</game>
+        <homeTeam>FC Wild &amp; Partner AG</homeTeam>
+        <visitorTeam>Zimmermann Str.- + Tiefbau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:05</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>altrimo ag</homeTeam>
+        <visitorTeam>BSG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:16</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>Hersche Ingenieure</homeTeam>
+        <visitorTeam>Moser Küchen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:27</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>TFP Treuhand AG</homeTeam>
+        <visitorTeam>altrimo ag</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:38</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>BSG</homeTeam>
+        <visitorTeam>Hersche Ingenieure</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:49</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>TFP Treuhand AG</homeTeam>
+        <visitorTeam>Moser Küchen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:00</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>altrimo ag</homeTeam>
+        <visitorTeam>Hersche Ingenieure</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:11</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>Moser Küchen</homeTeam>
+        <visitorTeam>BSG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:22</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>Hersche Ingenieure</homeTeam>
+        <visitorTeam>TFP Treuhand AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:33</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>Moser Küchen</homeTeam>
+        <visitorTeam>altrimo ag</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:44</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.7</game>
+        <homeTeam>BSG</homeTeam>
+        <visitorTeam>TFP Treuhand AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:05</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Gorilla Sports</homeTeam>
+        <visitorTeam>Holzbau P. Manser</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:16</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Holzin</homeTeam>
+        <visitorTeam>Timbaer Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:27</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>wisHOPPt</homeTeam>
+        <visitorTeam>Gorilla Sports</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:38</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Holzbau P. Manser</homeTeam>
+        <visitorTeam>Holzin</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:49</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>wisHOPPt</homeTeam>
+        <visitorTeam>Timbaer Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:00</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Gorilla Sports</homeTeam>
+        <visitorTeam>Holzin</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:11</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Timbaer Kickers</homeTeam>
+        <visitorTeam>Holzbau P. Manser</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:22</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Holzin</homeTeam>
+        <visitorTeam>wisHOPPt</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:33</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Timbaer Kickers</homeTeam>
+        <visitorTeam>Gorilla Sports</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:44</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.8</game>
+        <homeTeam>Holzbau P. Manser</homeTeam>
+        <visitorTeam>wisHOPPt</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:05</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Appenzeller Kantonalbank A</homeTeam>
+        <visitorTeam>KELLENBERGER ARCHITEKTUR</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:16</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Optimatik AG</homeTeam>
+        <visitorTeam>Raiffeisenbank Regio Arbon</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:27</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Sportradar</homeTeam>
+        <visitorTeam>Appenzeller Kantonalbank A</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:38</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>KELLENBERGER ARCHITEKTUR</homeTeam>
+        <visitorTeam>Optimatik AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T18:49</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Sportradar</homeTeam>
+        <visitorTeam>Raiffeisenbank Regio Arbon</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:00</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Appenzeller Kantonalbank A</homeTeam>
+        <visitorTeam>Optimatik AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:11</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Raiffeisenbank Regio Arbon</homeTeam>
+        <visitorTeam>KELLENBERGER ARCHITEKTUR</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:22</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Optimatik AG</homeTeam>
+        <visitorTeam>Sportradar</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:33</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>Raiffeisenbank Regio Arbon</homeTeam>
+        <visitorTeam>Appenzeller Kantonalbank A</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:44</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.9</game>
+        <homeTeam>KELLENBERGER ARCHITEKTUR</homeTeam>
+        <visitorTeam>Sportradar</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:55</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>appenzell24.ch</homeTeam>
+        <visitorTeam>Bank Vontobel St. Gallen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:06</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Berä Choschtä</homeTeam>
+        <visitorTeam>Raiffeisenbank Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:17</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>SIGRO BAU</homeTeam>
+        <visitorTeam>appenzell24.ch</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:28</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Bank Vontobel St. Gallen</homeTeam>
+        <visitorTeam>Berä Choschtä</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:39</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>SIGRO BAU</homeTeam>
+        <visitorTeam>Raiffeisenbank Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:50</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>appenzell24.ch</homeTeam>
+        <visitorTeam>Berä Choschtä</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:01</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Raiffeisenbank Appenzell</homeTeam>
+        <visitorTeam>Bank Vontobel St. Gallen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:12</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Berä Choschtä</homeTeam>
+        <visitorTeam>SIGRO BAU</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:23</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Raiffeisenbank Appenzell</homeTeam>
+        <visitorTeam>appenzell24.ch</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:34</dateTime>
+        <field>1</field>
+        <game>FB Vorrunde  Gr.10</game>
+        <homeTeam>Bank Vontobel St. Gallen</homeTeam>
+        <visitorTeam>SIGRO BAU</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:55</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Appenzeller Kantonalbank B</homeTeam>
+        <visitorTeam>Berggasthaus Mesmer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:06</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Hydremag AG</homeTeam>
+        <visitorTeam>JB Architekturbüro AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:17</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Wanderbuebe</homeTeam>
+        <visitorTeam>Appenzeller Kantonalbank B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:28</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Berggasthaus Mesmer</homeTeam>
+        <visitorTeam>Hydremag AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:39</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Wanderbuebe</homeTeam>
+        <visitorTeam>JB Architekturbüro AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:50</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Appenzeller Kantonalbank B</homeTeam>
+        <visitorTeam>Hydremag AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:01</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>JB Architekturbüro AG</homeTeam>
+        <visitorTeam>Berggasthaus Mesmer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:12</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Hydremag AG</homeTeam>
+        <visitorTeam>Wanderbuebe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:23</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>JB Architekturbüro AG</homeTeam>
+        <visitorTeam>Appenzeller Kantonalbank B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:34</dateTime>
+        <field>2</field>
+        <game>FB Vorrunde  Gr.11</game>
+        <homeTeam>Berggasthaus Mesmer</homeTeam>
+        <visitorTeam>Wanderbuebe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:55</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Alpstein Bau</homeTeam>
+        <visitorTeam>MountAIn Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:06</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Pizzeria Edelweiss</homeTeam>
+        <visitorTeam>Pizzeria zum Tannenbaum</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:17</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Säntis Kosmetik</homeTeam>
+        <visitorTeam>Alpstein Bau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:28</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>MountAIn Kickers</homeTeam>
+        <visitorTeam>Pizzeria Edelweiss</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:39</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Säntis Kosmetik</homeTeam>
+        <visitorTeam>Pizzeria zum Tannenbaum</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:50</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Alpstein Bau</homeTeam>
+        <visitorTeam>Pizzeria Edelweiss</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:01</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Pizzeria zum Tannenbaum</homeTeam>
+        <visitorTeam>MountAIn Kickers</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:12</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Pizzeria Edelweiss</homeTeam>
+        <visitorTeam>Säntis Kosmetik</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:23</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>Pizzeria zum Tannenbaum</homeTeam>
+        <visitorTeam>Alpstein Bau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:34</dateTime>
+        <field>3</field>
+        <game>FB Vorrunde  Gr.12</game>
+        <homeTeam>MountAIn Kickers</homeTeam>
+        <visitorTeam>Säntis Kosmetik</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:55</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>B&amp;B Alp Oberstofel</homeTeam>
+        <visitorTeam>Berit Klinik AG Team 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:06</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Café Rössli Gonten</homeTeam>
+        <visitorTeam>Centro Español Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:17</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Dörig und Kreier</homeTeam>
+        <visitorTeam>B&amp;B Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:28</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Berit Klinik AG Team 1</homeTeam>
+        <visitorTeam>Café Rössli Gonten</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:39</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Dörig und Kreier</homeTeam>
+        <visitorTeam>Centro Español Appenzell</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:50</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>B&amp;B Alp Oberstofel</homeTeam>
+        <visitorTeam>Café Rössli Gonten</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:01</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Centro Español Appenzell</homeTeam>
+        <visitorTeam>Berit Klinik AG Team 1</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:12</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Café Rössli Gonten</homeTeam>
+        <visitorTeam>Dörig und Kreier</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:23</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Centro Español Appenzell</homeTeam>
+        <visitorTeam>B&amp;B Alp Oberstofel</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:34</dateTime>
+        <field>4</field>
+        <game>FB Vorrunde  Gr.13</game>
+        <homeTeam>Berit Klinik AG Team 1</homeTeam>
+        <visitorTeam>Dörig und Kreier</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T19:55</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Berit Klinik AG Team 2</homeTeam>
+        <visitorTeam>D'Schwendne Leerer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:06</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Goldener Fashion-Crew</homeTeam>
+        <visitorTeam>Kantonale Verwaltung AI</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:17</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Konvekta AG</homeTeam>
+        <visitorTeam>Berit Klinik AG Team 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:28</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>D'Schwendne Leerer</homeTeam>
+        <visitorTeam>Goldener Fashion-Crew</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:39</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Konvekta AG</homeTeam>
+        <visitorTeam>Kantonale Verwaltung AI</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T20:50</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Berit Klinik AG Team 2</homeTeam>
+        <visitorTeam>Goldener Fashion-Crew</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:01</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Kantonale Verwaltung AI</homeTeam>
+        <visitorTeam>D'Schwendne Leerer</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:12</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Goldener Fashion-Crew</homeTeam>
+        <visitorTeam>Konvekta AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:23</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>Kantonale Verwaltung AI</homeTeam>
+        <visitorTeam>Berit Klinik AG Team 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-24T21:34</dateTime>
+        <field>5</field>
+        <game>FB Vorrunde  Gr.14</game>
+        <homeTeam>D'Schwendne Leerer</homeTeam>
+        <visitorTeam>Konvekta AG</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:00</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>23.59 last minute</homeTeam>
+        <visitorTeam>AJF-Mixed</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:14</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>FC Biercelona</homeTeam>
+        <visitorTeam>Chillbär Gress</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:28</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>Schnapsdrosslene</homeTeam>
+        <visitorTeam>23.59 last minute</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:42</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>AJF-Mixed</homeTeam>
+        <visitorTeam>FC Biercelona</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:56</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>Schnapsdrosslene</homeTeam>
+        <visitorTeam>Chillbär Gress</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:10</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>23.59 last minute</homeTeam>
+        <visitorTeam>FC Biercelona</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:24</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>Chillbär Gress</homeTeam>
+        <visitorTeam>AJF-Mixed</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:38</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>FC Biercelona</homeTeam>
+        <visitorTeam>Schnapsdrosslene</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:52</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>Chillbär Gress</homeTeam>
+        <visitorTeam>23.59 last minute</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:06</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.1</game>
+        <homeTeam>AJF-Mixed</homeTeam>
+        <visitorTeam>Schnapsdrosslene</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:00</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>GIN DOMI</homeTeam>
+        <visitorTeam>nüd bere, nüd wegge, berewegge</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:14</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>PEP‘s Team</homeTeam>
+        <visitorTeam>reflexion GmbH</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:28</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>Swingerclub Mixed</homeTeam>
+        <visitorTeam>GIN DOMI</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:42</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>nüd bere, nüd wegge, berewegge</homeTeam>
+        <visitorTeam>PEP‘s Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:56</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>Swingerclub Mixed</homeTeam>
+        <visitorTeam>reflexion GmbH</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:10</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>GIN DOMI</homeTeam>
+        <visitorTeam>PEP‘s Team</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:24</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>reflexion GmbH</homeTeam>
+        <visitorTeam>nüd bere, nüd wegge, berewegge</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:38</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>PEP‘s Team</homeTeam>
+        <visitorTeam>Swingerclub Mixed</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:52</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>reflexion GmbH</homeTeam>
+        <visitorTeam>GIN DOMI</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:06</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.2</game>
+        <homeTeam>nüd bere, nüd wegge, berewegge</homeTeam>
+        <visitorTeam>Swingerclub Mixed</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T07:30</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>D‘GLUET ISCH GUET, TOP DIE FE</homeTeam>
+        <visitorTeam>Di Legère</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T07:30</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Gägä gägä</homeTeam>
+        <visitorTeam>iha ga e bie ide hand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T07:58</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Tuzla City</homeTeam>
+        <visitorTeam>D‘GLUET ISCH GUET, TOP DIE FE</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T07:58</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Di Legère</homeTeam>
+        <visitorTeam>Gägä gägä</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:26</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Tuzla City</homeTeam>
+        <visitorTeam>iha ga e bie ide hand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:26</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>D‘GLUET ISCH GUET, TOP DIE FE</homeTeam>
+        <visitorTeam>Gägä gägä</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:54</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>iha ga e bie ide hand</homeTeam>
+        <visitorTeam>Di Legère</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:54</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Gägä gägä</homeTeam>
+        <visitorTeam>Tuzla City</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:22</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>iha ga e bie ide hand</homeTeam>
+        <visitorTeam>D‘GLUET ISCH GUET, TOP DIE FE</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:22</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.3</game>
+        <homeTeam>Di Legère</homeTeam>
+        <visitorTeam>Tuzla City</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T07:44</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>anja geh mal bier holen</homeTeam>
+        <visitorTeam>jung, wild ond sexy</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:12</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>Just Drink It</homeTeam>
+        <visitorTeam>Delicias Espana (Mixed)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:40</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>Delicias Espana (Mixed)</homeTeam>
+        <visitorTeam>anja geh mal bier holen</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T08:40</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>jung, wild ond sexy</homeTeam>
+        <visitorTeam>Just Drink It</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:08</dateTime>
+        <field>1</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>anja geh mal bier holen</homeTeam>
+        <visitorTeam>Just Drink It</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T09:08</dateTime>
+        <field>2</field>
+        <game>Mixed Vorrunde  Gr.4</game>
+        <homeTeam>Delicias Espana (Mixed)</homeTeam>
+        <visitorTeam>jung, wild ond sexy</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:22</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>Di 7 schnöllä Blitz</homeTeam>
+        <visitorTeam>FC Seitenstecher</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:22</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>Spaghetti Mafia</homeTeam>
+        <visitorTeam>Jung, Wild &amp; Sexy 2</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:50</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>Jung, Wild &amp; Sexy 2</homeTeam>
+        <visitorTeam>Di 7 schnöllä Blitz</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T16:50</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>FC Seitenstecher</homeTeam>
+        <visitorTeam>Spaghetti Mafia</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:18</dateTime>
+        <field>3</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>Di 7 schnöllä Blitz</homeTeam>
+        <visitorTeam>Spaghetti Mafia</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T17:18</dateTime>
+        <field>4</field>
+        <game>Mixed Vorrunde  Gr.5</game>
+        <homeTeam>Jung, Wild &amp; Sexy 2</homeTeam>
+        <visitorTeam>FC Seitenstecher</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:28</dateTime>
+        <field>1</field>
+        <game>Mixed Zwischenrunde  Gr.1</game>
+        <homeTeam>ZW11</homeTeam>
+        <visitorTeam>ZW12</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:56</dateTime>
+        <field>1</field>
+        <game>Mixed 8tels Final  Gr.1a</game>
+        <homeTeam>M1a</homeTeam>
+        <visitorTeam>M2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:56</dateTime>
+        <field>2</field>
+        <game>Mixed 8tels Final  Gr.2d</game>
+        <homeTeam>M3b</homeTeam>
+        <visitorTeam>M4c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:56</dateTime>
+        <field>3</field>
+        <game>Mixed 8tels Final  Gr.1c</game>
+        <homeTeam>M1d</homeTeam>
+        <visitorTeam>M2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T18:56</dateTime>
+        <field>4</field>
+        <game>Mixed 8tels Final  Gr.2b</game>
+        <homeTeam>M3c</homeTeam>
+        <visitorTeam>M4b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:10</dateTime>
+        <field>1</field>
+        <game>Mixed 8tels Final  Gr.1d</game>
+        <homeTeam>M3a</homeTeam>
+        <visitorTeam>M4d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:10</dateTime>
+        <field>2</field>
+        <game>Mixed 8tels Final  Gr.2a</game>
+        <homeTeam>M1b</homeTeam>
+        <visitorTeam>M2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:10</dateTime>
+        <field>3</field>
+        <game>Mixed 8tels Final  Gr.1b</game>
+        <homeTeam>M3d</homeTeam>
+        <visitorTeam>M4a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:10</dateTime>
+        <field>4</field>
+        <game>Mixed 8tels Final  Gr.2c</game>
+        <homeTeam>M1c</homeTeam>
+        <visitorTeam>M2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:38</dateTime>
+        <field>1</field>
+        <game>Mixed 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:38</dateTime>
+        <field>2</field>
+        <game>Mixed 4tels Final  Gr.B</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:38</dateTime>
+        <field>3</field>
+        <game>Mixed 4tels Final  Gr.C</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:38</dateTime>
+        <field>4</field>
+        <game>Mixed 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:06</dateTime>
+        <field>1</field>
+        <game>Mixed Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:06</dateTime>
+        <field>2</field>
+        <game>Mixed Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:34</dateTime>
+        <field>2</field>
+        <game>Mixed 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:48</dateTime>
+        <field>1</field>
+        <game>Mixed Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T10:46</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>De zemegwöffled Huffe</homeTeam>
+        <visitorTeam>Haldengut Fan Wartau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:00</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>Wikis Freunde</homeTeam>
+        <visitorTeam>Handtüechli</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:42</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>Handtüechli</homeTeam>
+        <visitorTeam>De zemegwöffled Huffe</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:56</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>Haldengut Fan Wartau</homeTeam>
+        <visitorTeam>Wikis Freunde</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:38</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>De zemegwöffled Huffe</homeTeam>
+        <visitorTeam>Wikis Freunde</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:52</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.1</game>
+        <homeTeam>Handtüechli</homeTeam>
+        <visitorTeam>Haldengut Fan Wartau</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:14</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>Badtüechli</homeTeam>
+        <visitorTeam>old Schmetterhand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T11:28</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>The old stars</homeTeam>
+        <visitorTeam>Rafi Koch bitte an Speakertis</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:10</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>Rafi Koch bitte an Speakertis</homeTeam>
+        <visitorTeam>Badtüechli</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T12:24</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>old Schmetterhand</homeTeam>
+        <visitorTeam>The old stars</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:06</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>Badtüechli</homeTeam>
+        <visitorTeam>The old stars</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:20</dateTime>
+        <field>5</field>
+        <game>P Vorrunde  Gr.2</game>
+        <homeTeam>Rafi Koch bitte an Speakertis</homeTeam>
+        <visitorTeam>old Schmetterhand</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:20</dateTime>
+        <field>1</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Appenzeller Bären</homeTeam>
+        <visitorTeam>Melöndkesinni</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:20</dateTime>
+        <field>2</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Team Sonnebueb United (P)</homeTeam>
+        <visitorTeam>Stöck, Stich, Wiis</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:48</dateTime>
+        <field>1</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Stöck, Stich, Wiis</homeTeam>
+        <visitorTeam>Appenzeller Bären</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:48</dateTime>
+        <field>2</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Melöndkesinni</homeTeam>
+        <visitorTeam>Team Sonnebueb United (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:16</dateTime>
+        <field>1</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Appenzeller Bären</homeTeam>
+        <visitorTeam>Team Sonnebueb United (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:16</dateTime>
+        <field>2</field>
+        <game>P Vorrunde  Gr.3</game>
+        <homeTeam>Stöck, Stich, Wiis</homeTeam>
+        <visitorTeam>Melöndkesinni</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:20</dateTime>
+        <field>3</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>Die 5 Chläus</homeTeam>
+        <visitorTeam>Gulgrön Hammarstrand (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:20</dateTime>
+        <field>4</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>Teppich-Veteidige (P)</homeTeam>
+        <visitorTeam>MVA-Tschölindeblüetetee</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:48</dateTime>
+        <field>3</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>MVA-Tschölindeblüetetee</homeTeam>
+        <visitorTeam>Die 5 Chläus</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T13:48</dateTime>
+        <field>4</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>Gulgrön Hammarstrand (P)</homeTeam>
+        <visitorTeam>Teppich-Veteidige (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:16</dateTime>
+        <field>3</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>Die 5 Chläus</homeTeam>
+        <visitorTeam>Teppich-Veteidige (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T14:16</dateTime>
+        <field>4</field>
+        <game>P Vorrunde  Gr.4</game>
+        <homeTeam>MVA-Tschölindeblüetetee</homeTeam>
+        <visitorTeam>Gulgrön Hammarstrand (P)</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:24</dateTime>
+        <field>1</field>
+        <game>P 4tels Final  Gr.A</game>
+        <homeTeam>1a</homeTeam>
+        <visitorTeam>2d</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:24</dateTime>
+        <field>2</field>
+        <game>P 4tels Final  Gr.B</game>
+        <homeTeam>1d</homeTeam>
+        <visitorTeam>2a</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:24</dateTime>
+        <field>3</field>
+        <game>P 4tels Final  Gr.C</game>
+        <homeTeam>1c</homeTeam>
+        <visitorTeam>2b</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:24</dateTime>
+        <field>4</field>
+        <game>P 4tels Final  Gr.D</game>
+        <homeTeam>1b</homeTeam>
+        <visitorTeam>2c</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:52</dateTime>
+        <field>1</field>
+        <game>P Halbfinal  Gr.AB</game>
+        <homeTeam>A</homeTeam>
+        <visitorTeam>B</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T19:52</dateTime>
+        <field>2</field>
+        <game>P Halbfinal  Gr.CD</game>
+        <homeTeam>C</homeTeam>
+        <visitorTeam>D</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:20</dateTime>
+        <field>1</field>
+        <game>P 3+4 Platz  Gr..</game>
+        <homeTeam>V-AB</homeTeam>
+        <visitorTeam>V-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+    <matches>
+        <dateTime>2022-06-25T20:34</dateTime>
+        <field>1</field>
+        <game>P Final  Gr..</game>
+        <homeTeam>S-AB</homeTeam>
+        <visitorTeam>S-CD</visitorTeam>
+        <homeScore>0</homeScore>
+        <visitorScore>0</visitorScore>
+        <penalty>false</penalty>
+    </matches>
+</xmlTournamentSchedule>

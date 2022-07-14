@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <categories>
+    <category>
+      <name>A</name>
+      <teams>
+        <team>
+          <name>Abdelkader Ibn Kharuf</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>FC Dynamit</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Marlboro Rot</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>C</name>
+      <teams>
+        <team>
+          <name>Gontne</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Goookewasso</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>Da</name>
+      <teams>
+        <team>
+          <name>Die Wilden Kerle New Generati</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>Db</name>
+      <teams>
+        <team>
+          <name>Mis Lieblingsteam</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>FB</name>
+      <teams>
+        <team>
+          <name>Alpstein Bau</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>altrimo ag</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Café Rössli Gonten</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>contreva</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>CORE Cornella AG / Refida AG</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>FC Wild &amp; Partner AG</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Hersche Ingenieure</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Metallbau Gontenbad</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>Mixed</name>
+      <teams>
+        <team>
+          <name>AJF-Mixed</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>anja geh mal bier holen</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>D‘GLUET ISCH GUET, TOP DIE FE</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>jung, wild ond sexy</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+    <category>
+      <name>P</name>
+      <teams>
+        <team>
+          <name>Appenzeller Bären</name>
+          <color>#000000</color>
+        </team>
+        <team>
+          <name>Badtüechli</name>
+          <color>#000000</color>
+        </team>
+      </teams>
+    </category>
+  </categories>
+</list>

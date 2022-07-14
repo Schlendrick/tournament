@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<fx:root fx:id="box" type="javafx.scene.layout.VBox" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+    <GridPane alignment="CENTER" hgap="2.0" vgap="2.0" VBox.vgrow="ALWAYS">
+        <columnConstraints>
+            <ColumnConstraints />
+            <ColumnConstraints />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints />
+            <RowConstraints />
+        </rowConstraints>
+        <HBox spacing="8" GridPane.columnIndex="0" GridPane.columnSpan="2" GridPane.rowIndex="0" GridPane.vgrow="ALWAYS">
+            <GridPane.margin>
+                <Insets left="2.0" />
+            </GridPane.margin>
+            <Label fx:id="cat" text="kat">
+                <font>
+                    <Font name="System Bold" />
+                </font>
+            </Label>
+            <Label fx:id="groupContext" text="runde_gruppe" />
+        </HBox>
+        <Label fx:id="home" alignment="TOP_RIGHT" text="heim" GridPane.columnIndex="0" GridPane.rowIndex="1" GridPane.vgrow="ALWAYS">
+            <GridPane.margin>
+                <Insets right="2.0" />
+            </GridPane.margin>
+        </Label>
+        <Label fx:id="visitor" text="auswärts" GridPane.columnIndex="1" GridPane.rowIndex="1" GridPane.vgrow="ALWAYS">
+            <GridPane.margin>
+                <Insets left="2.0" />
+            </GridPane.margin>
+        </Label>
+    </GridPane>
+</fx:root>
