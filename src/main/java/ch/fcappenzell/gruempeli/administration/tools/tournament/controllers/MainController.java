@@ -29,8 +29,6 @@ import java.util.List;
 @Component
 public class MainController {
 
-    Logger logger = LoggerFactory.getLogger(MainController.class);
-
     @Autowired
     ApplicationContext context;
 
@@ -82,6 +80,12 @@ public class MainController {
         this.stage = stage;
     }
 
+    public final PlanerController planerController;
+    @Autowired
+    public MainController(PlanerController planerController) {
+        this.planerController = planerController;
+    }
+
     @FXML
     public void initialize() {
 
@@ -98,6 +102,8 @@ public class MainController {
                 preferencesSupport.setDbPatch(absolutePath);
                 dbHandler.connect(absolutePath);
                 tabPane.getTabs().forEach(tab -> tab.setDisable(false));
+
+                planerController.updateMatches(dbHandler);
             } else {
                 preferencesSupport.setDbPatch(null);
             }
@@ -108,6 +114,7 @@ public class MainController {
         closeDataBase.setOnAction(e -> {
             dbHandler.disconnect();
             preferencesSupport.setDbPatch(null);
+            planerController.destroy();
             tabPane.getTabs().forEach(tab -> tab.setDisable(true));
             path.setText("no database selected");
         });
@@ -116,12 +123,10 @@ public class MainController {
         clear.setDisable(true);
 
         clear.setOnAction(e -> {
-            logger.info("clear pressed");
             dbHandler.clearPlan();
         });
 
         upload.setOnAction(e -> {
-            logger.info("upload pressed");
             List<Match> matchList = dbHandler.getMatches();
             this.writeMatches(matchList);
         });
@@ -156,7 +161,6 @@ public class MainController {
     }
 
     private void writeMatches(List<Match> matches) {
-        logger.info("writeMatches");
 
         XMLTournamentSchedule schedule = new XMLTournamentSchedule();
         schedule.matches = matches.stream()

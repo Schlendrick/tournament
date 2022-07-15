@@ -30,7 +30,7 @@ public class StageInitializer implements ApplicationListener<StageReadyEvent> {
     public void onApplicationEvent(StageReadyEvent event) {
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(chartResource.getURL());
-            fxmlLoader.setControllerFactory(aClass -> applicationContext. getBean(aClass));
+            fxmlLoader.setControllerFactory(aClass -> applicationContext.getBean(aClass));
             Parent parent = fxmlLoader.load();
 
             Stage stage = event.getStage();
