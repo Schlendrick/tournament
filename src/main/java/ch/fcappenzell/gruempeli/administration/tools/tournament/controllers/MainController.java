@@ -50,7 +50,10 @@ public class MainController {
     private TabPane tabPane;
 
     @FXML
-    private MenuItem connect;
+    private MenuItem openDataBase;
+
+    @FXML
+    private MenuItem closeDataBase;
 
     @FXML
     private MenuItem clear;
@@ -81,7 +84,8 @@ public class MainController {
 
     @FXML
     public void initialize() {
-        connect.setOnAction(e -> {
+
+        openDataBase.setOnAction(e -> {
             FileChooser fileChooser = new FileChooser();
             fileChooser.setTitle("Turnier Datenbank öffnen");
             fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("Access Db", "*.mdb", "*.accdb"));
@@ -96,6 +100,12 @@ public class MainController {
             }
             path.setText(String.format("%s ", preferencesSupport.getDbPath()));
 
+        });
+
+        closeDataBase.setOnAction(e -> {
+            dbHandler.disconnect();
+            preferencesSupport.setDbPatch(null);
+            path.setText("no database selected");
         });
 
         // todo - während des Spiels gefährlich

@@ -51,12 +51,7 @@ public class DbHandler {
         }
     }
 
-    public void addListener(ConnectionListener listener){
-        listeners.add(listener);
-    }
-
-    @PreDestroy
-    public void stop() {
+    public void disconnect() {
         if (connection != null) {
             try {
                 connection.close();
@@ -64,6 +59,10 @@ public class DbHandler {
                 logger.error( "Fehler beim Beenden der DB-Verbindung", e);
             }
         }
+    }
+
+    public void addListener(ConnectionListener listener){
+        listeners.add(listener);
     }
 
     public boolean isRunning() {

@@ -8,12 +8,10 @@
 <?import javafx.scene.control.SeparatorMenuItem?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
-<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
-
 
 <VBox xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.fcappenzell.gruempeli.administration.tools.tournament.controllers.MainController">
    <children>
@@ -21,7 +19,8 @@
         <menus>
           <Menu mnemonicParsing="false" text="File">
             <items>
-              <MenuItem fx:id="connect" mnemonicParsing="false" text="Open" />
+                  <MenuItem fx:id="openDataBase" mnemonicParsing="false" text="Open" />
+                  <MenuItem fx:id="closeDataBase" mnemonicParsing="false" text="Close" />
                   <MenuItem fx:id="clear" mnemonicParsing="false" text="Clear" />
                   <MenuItem fx:id="upload" mnemonicParsing="false" text="Upload" />
                   <SeparatorMenuItem mnemonicParsing="false" />
@@ -56,7 +55,7 @@
         <tabs>
           <Tab fx:id="plan" text="Spielplan">
               <content>
-                  <fx:include fx:id="matchesTab" source="PlanerTab.fxml" />
+                  <fx:include fx:id="planerTab" source="PlanerTab.fxml" />
               </content>
           </Tab>
           <Tab fx:id="assignment" text="Matches">
