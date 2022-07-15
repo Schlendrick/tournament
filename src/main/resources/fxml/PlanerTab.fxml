@@ -3,26 +3,20 @@
 <?import javafx.scene.control.SplitPane?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
-<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.VBox?>
 
-
-<SplitPane fx:id="planerTab" prefHeight="444.0" prefWidth="491.0" dividerPositions="0.2" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.fcappenzell.gruempeli.administration.tools.tournament.controllers.PlanerController">
+<SplitPane fx:id="planerTab" dividerPositions="0.25" prefHeight="725.0" prefWidth="780.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.fcappenzell.gruempeli.administration.tools.tournament.controllers.PlanerController">
   <items>
-    <AnchorPane minHeight="0.0" minWidth="0.0">
+      <VBox fx:id="openMatchesPane" prefHeight="200.0" prefWidth="100.0" />
+      <VBox prefHeight="200.0" prefWidth="100.0">
          <children>
-            <VBox />
-         </children>
-      </AnchorPane>
-    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="301.0" prefWidth="309.0">
-         <children>
-            <TabPane prefHeight="301.0" prefWidth="249.0" side="BOTTOM" tabClosingPolicy="UNAVAILABLE">
+            <TabPane fx:id="scheduleTabPane" prefHeight="730.0" prefWidth="580.0" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
               <tabs>
                 <Tab text="Untitled Tab 1" />
                 <Tab text="Untitled Tab 2" />
               </tabs>
             </TabPane>
          </children>
-      </AnchorPane>
+      </VBox>
   </items>
 </SplitPane>

@@ -85,6 +85,8 @@ public class MainController {
     @FXML
     public void initialize() {
 
+        tabPane.getTabs().forEach(tab -> tab.setDisable(true));
+
         openDataBase.setOnAction(e -> {
             FileChooser fileChooser = new FileChooser();
             fileChooser.setTitle("Turnier Datenbank öffnen");
@@ -95,6 +97,7 @@ public class MainController {
                 String absolutePath = file.getAbsolutePath();
                 preferencesSupport.setDbPatch(absolutePath);
                 dbHandler.connect(absolutePath);
+                tabPane.getTabs().forEach(tab -> tab.setDisable(false));
             } else {
                 preferencesSupport.setDbPatch(null);
             }
@@ -105,6 +108,7 @@ public class MainController {
         closeDataBase.setOnAction(e -> {
             dbHandler.disconnect();
             preferencesSupport.setDbPatch(null);
+            tabPane.getTabs().forEach(tab -> tab.setDisable(true));
             path.setText("no database selected");
         });
 
