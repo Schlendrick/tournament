@@ -134,16 +134,6 @@ public class MainController {
 
         version.setText("V 1.0.0");
 
-        /*
-        String dbPath = preferencesSupport.getDbPath();
-        if(dbPath != null){
-            dbHandler.connect(dbPath);
-        }
-
-        path.setText(String.format("%s ", preferencesSupport.getDbPath()));
-
-         */
-
     }
 
     private void writeMatches(List<Match> matches) {

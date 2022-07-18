@@ -55,12 +55,12 @@
         <tabs>
           <Tab text="Spielplan">
               <content>
-                  <fx:include fx:id="planerTab" source="PlanerTab.fxml" />
+                  <fx:include fx:id="planerTab" source="PlanerTab/PlanerTab.fxml" />
               </content>
           </Tab>
           <Tab text="Matches">
            <content>
-              <fx:include fx:id="matchesTab" source="MatchesTab.fxml" />
+              <fx:include fx:id="matchesTab" source="MatchesTab/MatchesTab.fxml" />
            </content>
           </Tab>
         </tabs>
