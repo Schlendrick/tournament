@@ -53,12 +53,12 @@
       </MenuBar>
       <TabPane fx:id="tabPane" side="LEFT" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
         <tabs>
-          <Tab fx:id="plan" text="Spielplan">
+          <Tab text="Spielplan">
               <content>
                   <fx:include fx:id="planerTab" source="PlanerTab.fxml" />
               </content>
           </Tab>
-          <Tab fx:id="assignment" text="Matches">
+          <Tab text="Matches">
            <content>
               <fx:include fx:id="matchesTab" source="MatchesTab.fxml" />
            </content>

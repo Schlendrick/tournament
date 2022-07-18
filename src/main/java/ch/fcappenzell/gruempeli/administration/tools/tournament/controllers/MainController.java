@@ -4,8 +4,6 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.WindowPreference
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.assignment.AssignmentView;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.PlanerView;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.DocumentService;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.impl.FileUploadServiceImpl;
@@ -17,8 +15,6 @@ import javafx.scene.text.Text;
 import javafx.stage.FileChooser;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
@@ -61,12 +57,6 @@ public class MainController {
 
     @FXML
     private MenuItem preferences;
-
-    @FXML
-    private Tab plan;
-
-    @FXML
-    private Tab assignment;
 
     @FXML
     private Label version;
@@ -130,10 +120,6 @@ public class MainController {
             List<Match> matchList = dbHandler.getMatches();
             this.writeMatches(matchList);
         });
-        
-        //plan.setContent(context.getBean(PlanerView.class).getView());
-
-        //assignment.setContent(context.getBean(AssignmentView.class).getView());
 
         preferences.setOnAction(e -> {
             final Stage dialog = new Stage();

@@ -65,7 +65,7 @@ public class PlanerController {
             schedule.initSchedule(td, tournament.getFields(), matches);
             schedule.setFeedbackProvider(feedbackProvider);
             schedule.addChangedListener(openMatchesView::updateViewItems);
-            String dayDisplayName = td.getDay().getDayOfWeek().getDisplayName(TextStyle.SHORT, Locale.getDefault());
+            String dayDisplayName = td.getDay().getDayOfWeek().getDisplayName(TextStyle.FULL, Locale.getDefault());
             borderPane.setCenter(schedule);
             borderPane.setBottom(feedbackProvider);
             addTab(dayDisplayName, borderPane);
