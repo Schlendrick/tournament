@@ -96,8 +96,8 @@ public class MainController {
                 dbHandler.connect(absolutePath);
                 tabPane.getTabs().forEach(tab -> tab.setDisable(false));
 
-                this.planerController.updateMatches(dbHandler);
-                this.teamsTableController.updateTeams(dbHandler);
+                planerController.updateMatches(dbHandler);
+                teamsTableController.updateTeams(dbHandler);
 
             } else {
                 preferencesSupport.setDbPatch(null);

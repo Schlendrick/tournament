@@ -13,6 +13,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
+import javafx.scene.control.cell.CheckBoxTableCell;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.stereotype.Component;
@@ -57,7 +58,9 @@ public class TeamsTableController {
         teamNameColumn.setCellValueFactory(cellData ->  new SimpleStringProperty(cellData.getValue().getName()));
         firstNameColumn.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getCaptain().getFirstName()));
         lastNameColumn.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getCaptain().getLastName()));
+        disqualifiedColumn.setCellFactory(CheckBoxTableCell.forTableColumn(disqualifiedColumn)); // show as checkbox
         disqualifiedColumn.setCellValueFactory(cellData -> new SimpleBooleanProperty((cellData.getValue().getDisqualified())));
+        paidColumn.setCellFactory(CheckBoxTableCell.forTableColumn(paidColumn)); // show as checkbox
         paidColumn.setCellValueFactory(cellData -> new SimpleBooleanProperty((cellData.getValue().getPaid())));
 
         // 1. Wrap the ObservableList in a FilteredList (initially display all data).
@@ -65,7 +68,7 @@ public class TeamsTableController {
 
         // 2. Set the filter Predicate whenever the filter changes.
         filterField.textProperty().addListener((observable, oldValue, newValue) -> {
-            filteredData.setPredicate(person -> {
+            filteredData.setPredicate(team -> {
                 // If filter text is empty, display all persons.
                 if (newValue == null || newValue.isEmpty()) {
                     return true;
@@ -74,11 +77,11 @@ public class TeamsTableController {
                 // Compare first name and last name of every person with filter text.
                 String lowerCaseFilter = newValue.toLowerCase();
 
-                if (person.getName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
+                if (team.getName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
                     return true; // Filter matches first name.
-                } else if (person.getCaptain().getFirstName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
+                } else if (team.getCaptain().getFirstName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
                     return true; // Filter matches last name.
-                } else if (person.getCaptain().getLastName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
+                } else if (team.getCaptain().getLastName().toLowerCase().indexOf(lowerCaseFilter) != -1) {
                     return true; // Filter matches last name.
                 }
                 return false; // Does not match.
