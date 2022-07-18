@@ -66,7 +66,7 @@ public class MatchesQuery extends ResultDbStatementExecutable<List<Match>> {
             while (resultSet.next()) {
 
                 Category category = new Category(resultSet.getString(1), resultSet.getString(2), resultSet.getString(3));
-                logger.info("New Category created Name:{} , Code:{}", category.getName(), category.getCode());
+                //logger.info("New Category created Name:{} , Code:{}", category.getName(), category.getCode());
                 category.setColor(colors.get(0).toString());
                 colors.remove(0);
                 Arrangement arrangement = new Arrangement();
@@ -91,7 +91,7 @@ public class MatchesQuery extends ResultDbStatementExecutable<List<Match>> {
             while (resultSet.next()) {
 
                 String roundCode = resultSet.getString(3);
-                logger.info(roundCode);
+                //logger.info(roundCode);
 
                 if (!roundMap.containsKey(roundCode)) {
                     Round round = new Round();
