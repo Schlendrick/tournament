@@ -8,7 +8,6 @@
 <?import javafx.scene.control.SeparatorMenuItem?>
 <?import javafx.scene.control.Tab?>
 <?import javafx.scene.control.TabPane?>
-<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.VBox?>
@@ -55,20 +54,20 @@
       <TabPane fx:id="tabPane" side="LEFT" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
         <tabs>
             <Tab text="Teams">
-              <content>
-                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
-              </content>
+               <content>
+                  <fx:include fx:id="teamsTableTab" source="TeamsTableTab/TeamsTableTab.fxml" />
+               </content>
             </Tab>
-          <Tab text="Spielplan">
-              <content>
+            <Tab text="Spielplan">
+               <content>
                   <fx:include fx:id="planerTab" source="PlanerTab/PlanerTab.fxml" />
-              </content>
-          </Tab>
-          <Tab text="Matches">
-           <content>
-              <fx:include fx:id="matchesTab" source="MatchesTab/MatchesTab.fxml" />
-           </content>
-          </Tab>
+               </content>
+            </Tab>
+            <Tab text="Matches">
+               <content>
+                  <fx:include fx:id="matchesTab" source="MatchesTab/MatchesTab.fxml" />
+               </content>
+            </Tab>
         </tabs>
       </TabPane>
       <HBox VBox.vgrow="NEVER">

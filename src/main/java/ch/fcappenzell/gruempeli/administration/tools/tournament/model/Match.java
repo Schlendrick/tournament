@@ -1,5 +1,7 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.model;
 
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
+
 import java.time.LocalDateTime;
 
 public class Match {

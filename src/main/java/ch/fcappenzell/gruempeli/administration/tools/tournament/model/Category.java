@@ -1,5 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.model;
 
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 

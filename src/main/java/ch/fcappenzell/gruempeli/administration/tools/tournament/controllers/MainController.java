@@ -71,9 +71,12 @@ public class MainController {
     }
 
     public final PlanerController planerController;
+    public final TeamsTableController teamsTableController;
+
     @Autowired
-    public MainController(PlanerController planerController) {
+    public MainController(PlanerController planerController, TeamsTableController teamsTableController) {
         this.planerController = planerController;
+        this.teamsTableController = teamsTableController;
     }
 
     @FXML
@@ -93,7 +96,9 @@ public class MainController {
                 dbHandler.connect(absolutePath);
                 tabPane.getTabs().forEach(tab -> tab.setDisable(false));
 
-                planerController.updateMatches(dbHandler);
+                this.planerController.updateMatches(dbHandler);
+                this.teamsTableController.updateTeams(dbHandler);
+
             } else {
                 preferencesSupport.setDbPatch(null);
             }

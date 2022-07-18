@@ -4,6 +4,7 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.persistence;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.*;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import javafx.collections.FXCollections;
 import javafx.scene.paint.Color;
 import org.springframework.stereotype.Component;
@@ -177,9 +178,9 @@ public class MatchesQuery extends ResultDbStatementExecutable<List<Match>> {
                 team.setName(resultSet.getString(3));
 
                 Date paid = resultSet.getDate(4);
-                team.setPaid(paid == null ? null : paid.toLocalDate());
-                team.setNote(resultSet.getString(5));
-                team.setForce(resultSet.getInt(6));
+                //team.setPaid(paid == null ? null : paid.toLocalDate());
+                //team.setNote(resultSet.getString(5));
+                //team.setForce(resultSet.getInt(6));
 
                 Date entry = resultSet.getDate(7);
                 team.setEntry(entry == null ? null : entry.toLocalDate());
