@@ -10,7 +10,7 @@ public class TeamMapper implements RowMapper<Team> {
     public Team mapRow(ResultSet resultSet, int i) throws SQLException {
 
         Team team = new Team();
-        team.setId(resultSet.getLong("MNr"));
+        team.setId(resultSet.getLong("MannNr"));
         team.setName(resultSet.getString("Mannschaft"));
 
         team.setWishes(resultSet.getString("Wunsch"));
@@ -27,7 +27,7 @@ public class TeamMapper implements RowMapper<Team> {
         captain.setFirstName(resultSet.getString("Vorname"));
         captain.setLastName(resultSet.getString("Namen"));
         captain.setStreet(resultSet.getString("Strasse"));
-        captain.setPlzPlace(resultSet.getString("Plz/Ort"));
+        //captain.setPlzPlace(resultSet.getString("Plz/Ort"));
         captain.setEmail(resultSet.getString("EMail"));
         captain.setPhone(resultSet.getString("Telefon"));
         team.setCaptain(captain);

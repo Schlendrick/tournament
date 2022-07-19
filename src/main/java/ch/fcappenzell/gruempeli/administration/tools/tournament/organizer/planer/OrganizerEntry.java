@@ -1,6 +1,10 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.*;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements.Category;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;

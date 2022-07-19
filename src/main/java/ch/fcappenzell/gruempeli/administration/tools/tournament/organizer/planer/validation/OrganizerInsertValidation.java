@@ -1,6 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.OrganizerResult;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.PlayTime;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.rules.*;

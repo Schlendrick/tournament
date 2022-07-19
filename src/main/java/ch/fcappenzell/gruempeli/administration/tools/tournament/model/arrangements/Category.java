@@ -1,4 +1,4 @@
-package ch.fcappenzell.gruempeli.administration.tools.tournament.model;
+package ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import javafx.beans.property.SimpleStringProperty;
@@ -76,5 +76,16 @@ public class Category {
     @Override
     public int hashCode() {
         return code.get().hashCode();
+    }
+
+    @Override
+    public String toString() {
+        return "Category{" +
+                "code=" + code +
+                ", name=" + name +
+                ", description=" + description +
+                ", teams=" + teams +
+                ", color='" + color + '\'' +
+                '}';
     }
 }

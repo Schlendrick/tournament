@@ -1,6 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import org.springframework.stereotype.Component;

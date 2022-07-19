@@ -1,4 +1,7 @@
-package ch.fcappenzell.gruempeli.administration.tools.tournament.model;
+package ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements;
+
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.GameModelVisitor;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -34,5 +37,13 @@ public class Arrangement {
 
     public void accept(GameModelVisitor visitor) {
         visitor.visit(this);
+    }
+
+    @Override
+    public String toString() {
+        return "Arrangement{" +
+                "category=" + category +
+                ", rounds=" + rounds +
+                '}';
     }
 }

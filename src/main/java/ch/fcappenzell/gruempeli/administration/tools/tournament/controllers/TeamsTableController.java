@@ -1,6 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.controllers;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.TeamDAO;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.team.TeamDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import javafx.beans.property.SimpleBooleanProperty;
@@ -17,6 +17,8 @@ import javafx.scene.control.cell.CheckBoxTableCell;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.stereotype.Component;
+
+import java.util.Map;
 
 @Component
 public class TeamsTableController {
@@ -99,7 +101,7 @@ public class TeamsTableController {
         personTable.setItems(sortedData);
     }
 
-    public void updateTeams(DbHandler dbHandler) {
+    public void updateTeams() {
 
         TeamDAO teamDAO = context.getBean(TeamDAO.class);
 

@@ -1,7 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.controllers;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.WindowPreferencesSupport;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
@@ -16,7 +15,6 @@ import javafx.stage.FileChooser;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
 
 import java.io.File;
@@ -24,12 +22,6 @@ import java.util.List;
 
 @Component
 public class MainController {
-
-    @Autowired
-    ApplicationContext context;
-
-    @Autowired
-    WindowPreferencesSupport preferencesSupport;
 
     @Autowired
     DocumentService documentService;
@@ -82,35 +74,28 @@ public class MainController {
     @FXML
     public void initialize() {
 
-        tabPane.getTabs().forEach(tab -> tab.setDisable(true));
-
         openDataBase.setOnAction(e -> {
             FileChooser fileChooser = new FileChooser();
             fileChooser.setTitle("Turnier Datenbank öffnen");
             fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("Access Db", "*.mdb", "*.accdb"));
             File file = fileChooser.showOpenDialog(stage);
 
-            if (file != null) {
-                String absolutePath = file.getAbsolutePath();
-                preferencesSupport.setDbPatch(absolutePath);
-                dbHandler.connect(absolutePath);
-                tabPane.getTabs().forEach(tab -> tab.setDisable(false));
-
-                planerController.updateMatches(dbHandler);
-                teamsTableController.updateTeams(dbHandler);
-
-            } else {
-                preferencesSupport.setDbPatch(null);
+            if (file == null) {
+                path.setText("no database selected");
+                return;
             }
-            path.setText(String.format("%s ", preferencesSupport.getDbPath()));
 
+            String absolutePath = file.getAbsolutePath();
+            dbHandler.connect(absolutePath);
+            planerController.updateMatches(dbHandler);
+            teamsTableController.updateTeams();
+
+            path.setText(absolutePath);
         });
 
         closeDataBase.setOnAction(e -> {
             dbHandler.disconnect();
-            preferencesSupport.setDbPatch(null);
             planerController.destroy();
-            tabPane.getTabs().forEach(tab -> tab.setDisable(true));
             path.setText("no database selected");
         });
 
@@ -122,8 +107,8 @@ public class MainController {
         });
 
         upload.setOnAction(e -> {
-            List<Match> matchList = dbHandler.getMatches();
-            this.writeMatches(matchList);
+            //List<Match> matchList = dbHandler.getMatches();
+            //this.writeMatches(matchList);
         });
 
         preferences.setOnAction(e -> {

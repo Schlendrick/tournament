@@ -1,5 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament;
 
+import ch.fcappenzell.gruempeli.administration.tools.tournament.spring.config.AppConfig;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.stage.Stage;
@@ -13,6 +14,7 @@ public class ChartApplication extends Application {
     @Override
     public void init() {
         applicationContext = new SpringApplicationBuilder(TournamentUiApplication.class).run();
+        AppConfig appConfiguration = applicationContext.getBean(AppConfig.class);
     }
 
     @Override

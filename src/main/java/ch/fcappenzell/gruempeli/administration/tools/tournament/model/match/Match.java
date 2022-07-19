@@ -1,5 +1,6 @@
-package ch.fcappenzell.gruempeli.administration.tools.tournament.model;
+package ch.fcappenzell.gruempeli.administration.tools.tournament.model.match;
 
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 
 import java.time.LocalDateTime;
@@ -11,13 +12,51 @@ public class Match {
     Holding holding;
     int field;
     LocalDateTime time;
+
+    Long homeTeamId;
     Team homeTeam;
+
+    Long visitorTeamId;
     Team visitorTeam;
     long homeScore;
     long visitorScore;
     boolean penalty;
 
+    @Override
+    public String toString() {
+        return "Match{" +
+                "id=" + id +
+                ", order=" + order +
+                ", holding=" + holding +
+                ", field=" + field +
+                ", time=" + time +
+                ", homeTeamId=" + homeTeamId +
+                ", homeTeam=" + homeTeam +
+                ", visitorTeamId=" + visitorTeamId +
+                ", visitorTeam=" + visitorTeam +
+                ", homeScore=" + homeScore +
+                ", visitorScore=" + visitorScore +
+                ", penalty=" + penalty +
+                '}';
+    }
+
     public Match() {
+    }
+
+    public Long getHomeTeamId() {
+        return homeTeamId;
+    }
+
+    public void setHomeTeamId(Long homeTeamId) {
+        this.homeTeamId = homeTeamId;
+    }
+
+    public Long getVisitorTeamId() {
+        return visitorTeamId;
+    }
+
+    public void setVisitorTeamId(Long visitorTeamId) {
+        this.visitorTeamId = visitorTeamId;
     }
 
     public long getId() {

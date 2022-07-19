@@ -3,7 +3,7 @@
  */
 package ch.fcappenzell.gruempeli.administration.tools.tournament.persistence;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 
 import java.sql.Connection;
 import java.sql.Date;

@@ -5,14 +5,13 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.persistence;
 
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.*;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import javafx.scene.control.Alert;
 import javafx.stage.StageStyle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.lang.NonNull;
 import org.springframework.stereotype.Component;
 
-import javax.annotation.PreDestroy;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -146,13 +145,6 @@ public class DbHandler {
         });
 
         updateMatches(matches);
-    }
-
-    @NonNull
-    public List<Match> getMatches() {
-        MatchesQuery matchesQuery = new MatchesQuery();
-        execute(matchesQuery);
-        return matchesQuery.getResult() == null ? new ArrayList<>() : matchesQuery.getResult();
     }
 
 

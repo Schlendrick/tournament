@@ -3,7 +3,7 @@
  */
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.rules;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.OrganizerResult;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.CheckRunData;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.SnapMatch;

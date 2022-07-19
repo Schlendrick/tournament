@@ -3,10 +3,10 @@
  */
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Holding;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Match;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.ModelHelper;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Round;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 
 public class SnapMatch {
 
