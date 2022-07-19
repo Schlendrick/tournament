@@ -1,11 +1,9 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.TournamentDay;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.tournament.TournamentDay;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.DefaultMessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.MessageFeedbackProvider;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbConnectionExecutable;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.beans.value.ObservableObjectValue;
 import javafx.collections.FXCollections;
@@ -40,12 +38,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
     @Autowired
     ApplicationContext context;
 
-    @Autowired
-    DbHandler dbHandler;
-
     private MessageFeedbackProvider feedbackProvider;
-
-    Logger logger = LoggerFactory.getLogger(DbConnectionExecutable.class);
 
     @Autowired
     private MatchDragDropBoard customDragBoard;
@@ -69,7 +62,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
         updateTableFromMatches(matches);
 
         initDragDrop();
-        addKeyActions();
+
     }
 
     public void setFeedbackProvider(DefaultMessageFeedbackProvider feedbackProvider) {
@@ -145,7 +138,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
                     }
                 }
 
-                dbHandler.clearMatches(matches);
+                // TODO dbHandler.clearMatches(matches);
 
                 matcheProperties.forEach(match -> match.set(null));
                 openMatchesViewUpdater.run();
@@ -168,7 +161,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
                         .collect(Collectors.toList());
                 customDragBoard.put(selection);
             } catch (Exception ex) {
-                logger.warn("Fehler in Drag&Drop", ex);
+                System.out.print("Fehler in Drag&Drop");
             }
 
             e.consume();

@@ -1,7 +1,6 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
 import javafx.scene.control.ListCell;
@@ -19,12 +18,9 @@ public class AvailableMatchesView extends ListView<Match>  {
 
     static Logger logger = LoggerFactory.getLogger(AvailableMatchesView.class);
 
-    DbHandler dbHandler;
-
     MatchDragDropBoard customDragBoard;
 
-    public AvailableMatchesView(DbHandler dbHandler, MatchDragDropBoard customDragBoard) {
-        this.dbHandler = dbHandler;
+    public AvailableMatchesView(MatchDragDropBoard customDragBoard) {
         this.customDragBoard = customDragBoard;
     }
 
@@ -78,7 +74,7 @@ public class AvailableMatchesView extends ListView<Match>  {
             logger.info("onDragDropped");
 
             List<Match> matches = customDragBoard.get();
-            dbHandler.clearMatches(matches);
+            // TODO dbHandler.clearMatches(matches);
 
             updateViewItems();
             event.consume();

@@ -3,7 +3,6 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.controllers;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.DocumentService;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.impl.FileUploadServiceImpl;
 import javafx.fxml.FXML;
@@ -28,9 +27,6 @@ public class MainController {
 
     @Autowired
     FileUploadServiceImpl fileUploadService;
-
-    @Autowired
-    DbHandler dbHandler;
 
     @FXML
     private TabPane tabPane;
@@ -86,15 +82,15 @@ public class MainController {
             }
 
             String absolutePath = file.getAbsolutePath();
-            dbHandler.connect(absolutePath);
-            planerController.updateMatches(dbHandler);
+            // TODO dbHandler.connect(absolutePath);
+            planerController.updateMatches();
             teamsTableController.updateTeams();
 
             path.setText(absolutePath);
         });
 
         closeDataBase.setOnAction(e -> {
-            dbHandler.disconnect();
+            // TODO context.close();
             planerController.destroy();
             path.setText("no database selected");
         });
@@ -103,7 +99,8 @@ public class MainController {
         clear.setDisable(true);
 
         clear.setOnAction(e -> {
-            dbHandler.clearPlan();
+            //TODO
+           // UpdateCleanMatchScheduling update = new UpdateCleanMatchScheduling();
         });
 
         upload.setOnAction(e -> {

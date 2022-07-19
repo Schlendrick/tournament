@@ -2,7 +2,6 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.controllers;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.team.TeamDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.FXCollections;

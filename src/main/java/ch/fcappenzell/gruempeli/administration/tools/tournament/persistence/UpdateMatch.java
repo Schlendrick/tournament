@@ -11,7 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.Timestamp;
 import java.util.Formatter;
 
-public class UpdateMatch implements DbConnectionExecutable {
+public class UpdateMatch  {
 
     private final Match match;
 
@@ -19,13 +19,6 @@ public class UpdateMatch implements DbConnectionExecutable {
 
     public UpdateMatch(Match match) {
         this.match = match;
-    }
-
-    @Override
-    public void accept(Connection connection) {
-        //update redundant data in T_Kategorien first
-        if (!updateHoldingValues(connection)) return;
-        updateMatchValues(connection);
     }
 
     private boolean updateHoldingValues(Connection connection) {
@@ -69,7 +62,7 @@ public class UpdateMatch implements DbConnectionExecutable {
             statement.executeUpdate();
 
         } catch (Exception e) {
-            logger.error("Fehler beim Zugriff auf die Datenbank", e);
+            System.out.print("Fehler beim Zugriff auf die Datenbank");
             return false;
         }
         return true;
@@ -89,7 +82,7 @@ public class UpdateMatch implements DbConnectionExecutable {
             result = statement.executeUpdate();
 
         } catch (Exception e) {
-            logger.error("Fehler beim Zugriff auf die Datenbank", e);
+            System.out.print("Fehler beim Zugriff auf die Datenbank");
         }
     }
 

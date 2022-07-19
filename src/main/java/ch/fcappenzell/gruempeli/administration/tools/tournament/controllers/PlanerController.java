@@ -4,17 +4,17 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.arrangements
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.holdings.HoldingDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.match.MatchDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.team.TeamDAO;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.tournament.TournamentDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements.Arrangement;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.Tournament;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.model.tournament.Tournament;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.DefaultMessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.AvailableMatchesView;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.MatchDragDropBoard;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.OrganizerDayView;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -49,7 +49,7 @@ public class PlanerController {
 
     private final ObservableList<Match> matches = FXCollections.observableArrayList();
 
-    public void updateMatches(DbHandler dbHandler) {
+    public void updateMatches() {
         List<Match> matchList = this.getMatches();
 
         matches.clear();
@@ -59,12 +59,14 @@ public class PlanerController {
 
         matches.addAll(FXCollections.observableArrayList(matchList));
 
-        AvailableMatchesView openMatchesView = new AvailableMatchesView(dbHandler, dragDropBoard);
+        AvailableMatchesView openMatchesView = new AvailableMatchesView(dragDropBoard);
         openMatchesView.initMatchesView(matches);
         openMatchesPane.getChildren().add(openMatchesView);
         VBox.setVgrow(openMatchesView, Priority.ALWAYS);
 
-        Tournament tournament = dbHandler.getTournamentQuery();
+        TournamentDAO tournamentDAO = context.getBean(TournamentDAO.class);
+        List<Tournament> tournamentList = tournamentDAO.getAllTournaments();
+        Tournament tournament = tournamentList.get(0);
         tournament.getTournamentDays().forEach(td -> {
             BorderPane borderPane = new BorderPane();
 

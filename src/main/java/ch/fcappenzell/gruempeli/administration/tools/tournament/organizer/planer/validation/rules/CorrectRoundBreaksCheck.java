@@ -6,7 +6,6 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.plane
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.OrganizerResult;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.CheckRunData;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.SnapMatch;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.persistence.DbHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -16,12 +15,11 @@ import java.util.List;
 @Component
 public class CorrectRoundBreaksCheck implements InsertCheck {
 
-    @Autowired
-    private DbHandler dbHandler;
 
     @Override
     public OrganizerResult test(CheckRunData data) {
-        int breaks = dbHandler.getTournament().getMinBreakMatchesRound();
+        // TODO int breaks = dbHandler.getTournament().getMinBreakMatchesRound();
+        int breaks = 4;
         List<SnapMatch[]> matchesToCheckRange = data.getSnap().getMatchesToCheckRange(data.getInsertTimeIndex(), breaks);
 
         return matchesToCheckRange.stream()
