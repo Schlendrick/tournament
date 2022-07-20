@@ -142,7 +142,11 @@ public class OrganizerDayView extends TableView<PlayTime> {
                         matches.add(match.get());
                     }
                 }
-                //matchService.clearMatches(matches);
+
+                matches.forEach(match -> {
+                    matchService.clearMatchInSchedule(match);
+                });
+
 
                 matchProperties.forEach(match -> match.set(null));
                 openMatchesViewUpdater.run();

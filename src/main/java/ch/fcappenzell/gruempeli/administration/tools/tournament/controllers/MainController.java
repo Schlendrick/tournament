@@ -52,12 +52,6 @@ public class MainController {
     @FXML
     private Label path;
 
-    private Stage stage;
-
-    public void setStage(Stage stage){
-        this.stage = stage;
-    }
-
     public final PlanerController planerController;
     public final TeamsTableController teamsTableController;
 
@@ -74,7 +68,7 @@ public class MainController {
             FileChooser fileChooser = new FileChooser();
             fileChooser.setTitle("Turnier Datenbank öffnen");
             fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("Access Db", "*.mdb", "*.accdb"));
-            File file = fileChooser.showOpenDialog(stage);
+            File file = fileChooser.showOpenDialog(openDataBase.getParentPopup().getScene().getWindow());
 
             if (file == null) {
                 path.setText("no database selected");
@@ -91,25 +85,40 @@ public class MainController {
 
         closeDataBase.setOnAction(e -> {
             // TODO context.close();
-            planerController.destroy();
+            planerController.clearView();
+            teamsTableController.clearView();
             path.setText("no database selected");
         });
 
-        // todo - während des Spiels gefährlich
-        clear.setDisable(true);
+        // Change detection on tabPane
+        clear.setVisible(false);
+        tabPane.getSelectionModel().selectedItemProperty().addListener(
+                (ov, oldTab, newTab) -> {
+                    System.out.println("Tab Selection changed to: "+ newTab.getId());
+                    switch (newTab.getId()) {
+                        case "teamsTableTab":
+                            clear.setVisible(false);
+                            break;
+                        case "planerTab":
+                            clear.setVisible(true);
+                            break;
+                        case "matchesTab":
+                            clear.setVisible(false);
+                            break;
+                        default:
+                            clear.setVisible(false);
+                            break;
+                    }
+                }
+        );
 
-        clear.setOnAction(e -> {
-            planerController.deleteMatchSchedule();
-        });
+        clear.setOnAction(e -> planerController.clearAllMatchInSchedule());
 
-        upload.setOnAction(e -> {
-            this.writeMatches(planerController.getMatchList());
-        });
+        upload.setOnAction(e -> this.writeMatches(planerController.getMatchList()));
 
         preferences.setOnAction(e -> {
             final Stage dialog = new Stage();
             dialog.initModality(Modality.APPLICATION_MODAL);
-            dialog.initOwner(this.stage);
             VBox dialogVbox = new VBox(20);
             dialogVbox.getChildren().add(new Text("This is a Dialog"));
             Scene dialogScene = new Scene(dialogVbox, 600, 600);

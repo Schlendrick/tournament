@@ -45,13 +45,10 @@ public class PlanerController {
     private final ObservableList<Match> matches = FXCollections.observableArrayList();
 
     public void updateMatches() {
+
+        clearView();
+
         List<Match> matchList = matchService.getAllMatches();
-
-        matches.clear();
-
-        openMatchesPane.getChildren().clear();
-        scheduleTabPane.getTabs().clear();
-
         matches.addAll(FXCollections.observableArrayList(matchList));
 
         AvailableMatchesView openMatchesView = new AvailableMatchesView(dragDropBoard);
@@ -85,12 +82,14 @@ public class PlanerController {
         scheduleTabPane.getTabs().add(tab);
     }
 
-    public void destroy() {
-
+    public void clearView() {
+        matches.clear();
+        openMatchesPane.getChildren().clear();
+        scheduleTabPane.getTabs().clear();
     }
 
-    public void deleteMatchSchedule(){
-        matchService.deleteMatchSchedule();
+    public void clearAllMatchInSchedule(){
+        matchService.clearAllMatchesInSchedule();
     }
 
     public List<Match> getMatchList()

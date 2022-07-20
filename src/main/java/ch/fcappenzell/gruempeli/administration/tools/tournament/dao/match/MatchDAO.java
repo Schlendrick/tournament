@@ -8,9 +8,9 @@ public interface MatchDAO {
 
     List<Match> getMatchesByCategory(Long id);
 
-    boolean deleteMatchSchedule();
+    boolean clearAllMatchesInSchedule();
 
-    boolean updateMatchSchedule(Match match);
+    boolean updateMatchInSchedule(Match match);
 
     boolean updateHoldingValues(Match match);
 }

@@ -49,14 +49,22 @@ public class MatchServiceImpl implements MatchService {
     }
 
     @Override
-    public void deleteMatchSchedule() {
-        matchDAO.deleteMatchSchedule();
+    public void clearAllMatchesInSchedule() {
+        matchDAO.clearAllMatchesInSchedule();
     }
+
+    @Override
+    public void clearMatchInSchedule(Match match) {
+        match.setField(0);
+        match.setTime(null);
+        matchDAO.updateMatchInSchedule(match);
+    }
+
 
     @Override
     public void updateMatches(List<Match> matches) {
         matches.forEach(match -> {
-            matchDAO.updateMatchSchedule(match);
+            matchDAO.updateMatchInSchedule(match);
             matchDAO.updateHoldingValues(match);
         });
 

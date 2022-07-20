@@ -21,7 +21,7 @@
             <items>
                   <MenuItem fx:id="openDataBase" mnemonicParsing="false" text="Open" />
                   <MenuItem fx:id="closeDataBase" mnemonicParsing="false" text="Close" />
-                  <MenuItem fx:id="clear" mnemonicParsing="false" text="Clear" />
+                  <MenuItem fx:id="clear" mnemonicParsing="false" text="Clear Schedule" />
                   <MenuItem fx:id="upload" mnemonicParsing="false" text="Upload" />
                   <SeparatorMenuItem mnemonicParsing="false" />
                   <Menu mnemonicParsing="false" text="Import...">
@@ -53,19 +53,19 @@
       </MenuBar>
       <TabPane fx:id="tabPane" side="LEFT" tabClosingPolicy="UNAVAILABLE" VBox.vgrow="ALWAYS">
         <tabs>
-            <Tab text="Teams">
+            <Tab text="Teams" fx:id="teamsTableTab">
                <content>
-                  <fx:include fx:id="teamsTableTab" source="TeamsTableTab/TeamsTableTab.fxml" />
+                  <fx:include source="TeamsTableTab/TeamsTableTab.fxml" />
                </content>
             </Tab>
-            <Tab text="Spielplan">
+            <Tab text="Spielplan" fx:id="planerTab">
                <content>
-                  <fx:include fx:id="planerTab" source="PlanerTab/PlanerTab.fxml" />
+                  <fx:include source="PlanerTab/PlanerTab.fxml" />
                </content>
             </Tab>
-            <Tab text="Matches">
+            <Tab text="Matches" fx:id="matchesTab">
                <content>
-                  <fx:include fx:id="matchesTab" source="MatchesTab/MatchesTab.fxml" />
+                  <fx:include source="MatchesTab/MatchesTab.fxml" />
                </content>
             </Tab>
         </tabs>

@@ -8,9 +8,13 @@ public interface MatchService {
 
     List<Match> getAllMatches();
 
-    void deleteMatchSchedule();
+    void clearAllMatchesInSchedule();
+
+    void clearMatchInSchedule(Match match);
 
     void updateMatches(List<Match> matches);
+
+
 
 
 }

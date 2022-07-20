@@ -106,4 +106,8 @@ public class TeamsTableController {
 
         masterData.addAll(teamDAO.getAllTeams());
     }
+
+    public void clearView(){
+        masterData.clear();
+    }
 }

@@ -1,9 +1,7 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.dao.match;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.HoldingMapper;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.MatchMapper;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
@@ -19,9 +17,8 @@ public class MatchDAOImpl implements MatchDAO{
     JdbcTemplate jdbcTemplate;
 
     private final String SQL_FIND_MATCHES = "select SpielNr, Reihenfolge, ZeitDatum, Spielzeit, Platz, MannNrA, MannNrB, ResA, ResB, Elfmeter from T_Spielplan where KatNr = ?  ORDER BY SpielNr";
-    private final String SQL_DELETE_MATCH_SCHEDULE = "update T_Spielplan set ZeitDatum = Null, Spielzeit = Null, Platz = \"0\"";
-    private final String SQL_UPDATE_MATCH_SCHEDULE = "update T_Spielplan set ZeitDatum = ?, Spielzeit = ?, Platz = ? where SpielNr = ?";
-
+    private final String SQL_CLEAR_ALL_MATCHES_IN_SCHEDULE = "update T_Spielplan set ZeitDatum = Null, Spielzeit = Null, Platz = \"0\"";
+    private final String SQL_UPDATE_MATCH_IN_SCHEDULE = "update T_Spielplan set ZeitDatum = ?, Spielzeit = ?, Platz = ? where SpielNr = ?";
     private final String SQL_UPDATE_HOLDING_VALUES = "update T_Kategorien set SpielDatum = ?, wtag = ?, wochentag = ? where KatNr = ?";
 
     @Autowired
@@ -35,15 +32,15 @@ public class MatchDAOImpl implements MatchDAO{
     }
 
     @Override
-    public boolean deleteMatchSchedule() {
-        return jdbcTemplate.update(SQL_DELETE_MATCH_SCHEDULE) > 0;
+    public boolean clearAllMatchesInSchedule() {
+        return jdbcTemplate.update(SQL_CLEAR_ALL_MATCHES_IN_SCHEDULE) > 0;
     }
 
     @Override
-    public boolean updateMatchSchedule(Match match) {
+    public boolean updateMatchInSchedule(Match match) {
         Timestamp time = match.getTime() == null ? null : Timestamp.valueOf(match.getTime());
         String field = new Formatter().format("%02d", match.getField()).toString();
-        return jdbcTemplate.update(SQL_UPDATE_MATCH_SCHEDULE, time, time, field,
+        return jdbcTemplate.update(SQL_UPDATE_MATCH_IN_SCHEDULE, time, time, field,
                 match.getId()) > 0;
     }
 
