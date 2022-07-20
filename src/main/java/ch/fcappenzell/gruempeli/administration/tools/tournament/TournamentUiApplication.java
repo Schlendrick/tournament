@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TournamentUiApplication {
 
     public static void main(final String[] args) {
-        Application.launch(ChartApplication.class, args);
+        Application.launch(TournamentApplication.class, args);
     }
 
 }
