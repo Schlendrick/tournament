@@ -17,8 +17,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.stereotype.Component;
 
-import java.util.Map;
-
 @Component
 public class TeamsTableController {
 
@@ -106,7 +104,7 @@ public class TeamsTableController {
 
         TeamDAO teamDAO = context.getBean(TeamDAO.class);
 
-        masterData.addAll(teamDAO.getAllTeams());
+        masterData.addAll(teamDAO.getAllAddress());
     }
 
     public void clearView(){

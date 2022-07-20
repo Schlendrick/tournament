@@ -9,7 +9,7 @@ import java.util.Map;
 public interface TeamDAO {
     Team getTeamById(Long id);
 
-    List<Team> getAllTeams();
+    List<Team> getAllAddress();
 
     Map<Long, Team> getAllTeamsMap();
 

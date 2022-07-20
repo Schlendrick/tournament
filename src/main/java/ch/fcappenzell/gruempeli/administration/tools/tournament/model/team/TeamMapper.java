@@ -4,15 +4,16 @@ import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TeamMapper implements RowMapper<Team> {
 
     public Team mapRow(ResultSet resultSet, int i) throws SQLException {
 
         Team team = new Team();
-        team.setId(resultSet.getLong("MannNr"));
+        team.setId(resultSet.getLong("MNr"));
         team.setName(resultSet.getString("Mannschaft"));
-
         team.setWishes(resultSet.getString("Wunsch"));
         team.setDisqualified(resultSet.getBoolean("Disqualifikation"));
         team.setBlindTeam(resultSet.getBoolean("Blinde_Mannschaft"));
@@ -21,17 +22,16 @@ public class TeamMapper implements RowMapper<Team> {
         //team.setDateRegistration(resultSet.getDate("DatumAnmeldung").toLocalDate());
         //team.setDateAmountReceived(resultSet.getDate("DatumBetragErhalten").toLocalDate());
 
-
         TeamCaptain captain = new TeamCaptain();
         captain.setTitle(resultSet.getString("Anrede"));
         captain.setFirstName(resultSet.getString("Vorname"));
         captain.setLastName(resultSet.getString("Namen"));
         captain.setStreet(resultSet.getString("Strasse"));
-        //captain.setPlzPlace(resultSet.getString("Plz/Ort"));
+        captain.setPlzPlace(resultSet.getString("Plz/Ort"));
         captain.setEmail(resultSet.getString("EMail"));
         captain.setPhone(resultSet.getString("Telefon"));
         team.setCaptain(captain);
-        /*
+
         // max 10 players possible
         List<TeamPlayer> teamPlayerList = new ArrayList<TeamPlayer>();
         for (Integer j = 1; j < 11; j++) {
@@ -65,11 +65,10 @@ public class TeamMapper implements RowMapper<Team> {
                 System.err.println("No known Date format found: " + candidate);
                 return null;
 
-
+                 */
             }
         }
         team.setPlayers(teamPlayerList);
-        */
 
         return team;
     }
