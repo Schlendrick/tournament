@@ -42,6 +42,8 @@ public class PlanerController {
     @Autowired
     MatchService matchService;
 
+    List<OrganizerDayView> organizerDayViews = new ArrayList();
+
     private final ObservableList<Match> matches = FXCollections.observableArrayList();
 
     public void updateMatches() {
@@ -68,6 +70,7 @@ public class PlanerController {
             schedule.initSchedule(td, tournament.getFields(), matches);
             schedule.setFeedbackProvider(feedbackProvider);
             schedule.addChangedListener(openMatchesView::updateViewItems);
+            organizerDayViews.add(schedule);
             String dayDisplayName = td.getDay().getDayOfWeek().getDisplayName(TextStyle.FULL, Locale.getDefault());
             borderPane.setCenter(schedule);
             borderPane.setBottom(feedbackProvider);
@@ -89,6 +92,9 @@ public class PlanerController {
     }
 
     public void clearAllMatchInSchedule(){
+        organizerDayViews.forEach(organizerDayView -> {
+            organizerDayView.clearMatchesSchedule();
+        });
         matchService.clearAllMatchesInSchedule();
     }
 

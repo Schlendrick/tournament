@@ -18,8 +18,6 @@ import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.Dragboard;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.TransferMode;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.ApplicationContext;
@@ -147,12 +145,35 @@ public class OrganizerDayView extends TableView<PlayTime> {
                     matchService.clearMatchInSchedule(match);
                 });
 
-
                 matchProperties.forEach(match -> match.set(null));
                 openMatchesViewUpdater.run();
 
             }
         });
+    }
+
+    // TODO Refactor
+    public void clearMatchesSchedule(){
+        List<Match> matches = new ArrayList<>();
+        List<SimpleObjectProperty<Match>> matchProperties = new ArrayList<>();
+
+        getItems().forEach(item ->{
+            for (int i = 0; i < fields; i++) {
+                SimpleObjectProperty<Match> match = item.getMatch(i+1);
+                matchProperties.add(match);
+                if (match.get() != null) {
+                    matches.add(match.get());
+                }
+            }
+        });
+
+        matches.forEach(match -> {
+            match.setField(0);
+            match.setTime(null);
+        });
+
+        matchProperties.forEach(match -> match.set(null));
+        openMatchesViewUpdater.run();
     }
 
     private void initDragDrop() {
