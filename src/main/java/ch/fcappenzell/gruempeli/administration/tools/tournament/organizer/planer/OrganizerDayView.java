@@ -4,6 +4,7 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Matc
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.tournament.TournamentDay;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.DefaultMessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.MessageFeedbackProvider;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.MatchService;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.beans.value.ObservableObjectValue;
 import javafx.collections.FXCollections;
@@ -43,6 +44,9 @@ public class OrganizerDayView extends TableView<PlayTime> {
     @Autowired
     private MatchDragDropBoard customDragBoard;
 
+    @Autowired
+    MatchService matchService;
+
     private TournamentDay tournamentDay;
     private int fields;
     private Runnable openMatchesViewUpdater;
@@ -62,6 +66,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
         updateTableFromMatches(matches);
 
         initDragDrop();
+        addKeyActions();
 
     }
 
@@ -121,6 +126,29 @@ public class OrganizerDayView extends TableView<PlayTime> {
                 .filter(p -> p.start.equals(m.getTime()))
                 .findFirst()
                 .ifPresent(p -> p.setMatch(m.getField(), m));
+    }
+    private void addKeyActions() {
+        setOnKeyPressed(event -> {
+            if (event.getCode() == KeyCode.DELETE) {
+
+                List<Match> matches = new ArrayList<>();
+                List<SimpleObjectProperty<Match>> matchProperties = new ArrayList<>();
+
+                for (TablePosition pos : getSelectionModel().getSelectedCells()) {
+                    SimpleObjectProperty<Match> match = getItems().get(pos.getRow()).getMatch(pos.getColumn());
+                    matchProperties.add(match);
+
+                    if (match.get() != null) {
+                        matches.add(match.get());
+                    }
+                }
+                //matchService.clearMatches(matches);
+
+                matchProperties.forEach(match -> match.set(null));
+                openMatchesViewUpdater.run();
+
+            }
+        });
     }
 
     private void initDragDrop() {
