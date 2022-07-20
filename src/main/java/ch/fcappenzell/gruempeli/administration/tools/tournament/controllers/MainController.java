@@ -4,6 +4,8 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Matc
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.document.DocumentService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.email.EmailService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.email.EmailServiceImpl;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.file.FileUploadService;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.config.AppConfig;
 import javafx.fxml.FXML;
@@ -29,6 +31,9 @@ public class MainController {
     @Autowired
     FileUploadService fileUploadService;
 
+    @Autowired
+    EmailService emailService;
+
     @FXML
     private TabPane tabPane;
 
@@ -37,6 +42,9 @@ public class MainController {
 
     @FXML
     private MenuItem closeDataBase;
+
+    @FXML
+    private MenuItem importRegistrations;
 
     @FXML
     private MenuItem clear;
@@ -67,6 +75,25 @@ public class MainController {
 
     @FXML
     public void initialize() {
+
+        importRegistrations.setOnAction(e->{
+            FileChooser fileChooser = new FileChooser();
+            fileChooser.setTitle("Email Importieren");
+            fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("Email", "*.eml"));
+            File file = fileChooser.showOpenDialog(openDataBase.getParentPopup().getScene().getWindow());
+
+            if (file == null) {
+                return;
+            }
+
+            try {
+                emailService.display(file);
+            } catch (Exception ex) {
+                throw new RuntimeException(ex);
+            }
+
+
+        });
 
         openDataBase.setOnAction(e -> {
             FileChooser fileChooser = new FileChooser();
