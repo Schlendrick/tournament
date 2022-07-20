@@ -1,4 +1,4 @@
-package ch.fcappenzell.gruempeli.administration.tools.tournament.service;
+package ch.fcappenzell.gruempeli.administration.tools.tournament.service.match;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 

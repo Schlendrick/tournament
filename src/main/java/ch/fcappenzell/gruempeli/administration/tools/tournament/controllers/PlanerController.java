@@ -7,7 +7,7 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedb
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.AvailableMatchesView;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.MatchDragDropBoard;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.OrganizerDayView;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.service.MatchService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.match.MatchService;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;

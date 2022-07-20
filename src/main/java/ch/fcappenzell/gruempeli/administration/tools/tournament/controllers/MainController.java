@@ -3,9 +3,9 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.controllers;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.service.DocumentService;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.service.impl.FileUploadServiceImpl;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.spring.config.AppConfig;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.document.DocumentService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.file.FileUploadService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.config.AppConfig;
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
@@ -27,7 +27,7 @@ public class MainController {
     DocumentService documentService;
 
     @Autowired
-    FileUploadServiceImpl fileUploadService;
+    FileUploadService fileUploadService;
 
     @FXML
     private TabPane tabPane;

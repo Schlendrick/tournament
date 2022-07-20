@@ -1,4 +1,4 @@
-package ch.fcappenzell.gruempeli.administration.tools.tournament.service;
+package ch.fcappenzell.gruempeli.administration.tools.tournament.service.match;
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.arrangements.ArrangementsDAO;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.dao.holdings.HoldingDAO;
@@ -9,6 +9,7 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Ho
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.match.MatchService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

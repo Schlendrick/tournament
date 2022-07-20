@@ -3,7 +3,7 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.plane
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.MessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.OrganizerInsertValidation;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.service.MatchService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.match.MatchService;
 import javafx.collections.ObservableList;
 import javafx.scene.control.TableCell;
 import javafx.scene.control.TablePosition;

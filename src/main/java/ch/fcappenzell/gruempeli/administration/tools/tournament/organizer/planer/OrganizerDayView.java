@@ -4,7 +4,7 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Matc
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.tournament.TournamentDay;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.DefaultMessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.MessageFeedbackProvider;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.service.MatchService;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.match.MatchService;
 import javafx.beans.property.SimpleObjectProperty;
 import javafx.beans.value.ObservableObjectValue;
 import javafx.collections.FXCollections;
