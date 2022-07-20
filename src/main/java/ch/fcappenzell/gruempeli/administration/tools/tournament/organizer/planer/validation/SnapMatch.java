@@ -5,7 +5,6 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.plane
 
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.ModelHelper;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 
 public class SnapMatch {
@@ -31,7 +30,7 @@ public class SnapMatch {
 
         catgegoryId = round.getArrangement().getCategory().getCode();
 
-        messageString = ModelHelper.toName(match);
+        messageString = match.toName();
     }
 
     public long getMatchId() {

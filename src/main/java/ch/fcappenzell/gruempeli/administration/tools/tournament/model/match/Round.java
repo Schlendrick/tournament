@@ -1,6 +1,5 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.model.match;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.GameModelVisitor;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements.Arrangement;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding.Holding;
 import javafx.beans.property.SimpleStringProperty;
@@ -57,10 +56,6 @@ public class Round {
 
     public int getIndex() {
         return getArrangement().getRounds().indexOf(this);
-    }
-
-    public void accept(GameModelVisitor visitor) {
-        visitor.visit(this);
     }
 
     @Override

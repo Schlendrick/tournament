@@ -45,7 +45,7 @@ public class OrganizerEntry extends VBox {
             teams.setText(match.getHomeTeam().getTeamNr() + " - " + match.getVisitorTeam().getTeamNr());
             Holding holding = match.getHolding();
             Round round = holding.getRound();
-            groupContext.setText(ModelHelper.toName(match));
+            groupContext.setText(match.toName());
             Category category = round.getArrangement().getCategory();
             cat.setText(category.getName());
             if (category.getColor() != null) {

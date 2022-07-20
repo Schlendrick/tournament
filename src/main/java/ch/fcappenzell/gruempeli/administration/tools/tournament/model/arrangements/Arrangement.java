@@ -1,6 +1,5 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangements;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.GameModelVisitor;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 
 import java.util.ArrayList;
@@ -33,10 +32,6 @@ public class Arrangement {
 
     public void setRounds(List<Round> rounds) {
         this.rounds = rounds;
-    }
-
-    public void accept(GameModelVisitor visitor) {
-        visitor.visit(this);
     }
 
     @Override

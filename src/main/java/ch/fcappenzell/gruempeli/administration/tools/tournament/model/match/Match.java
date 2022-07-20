@@ -40,6 +40,10 @@ public class Match {
                 '}';
     }
 
+    public String toName() {
+        return holding.getRound().getBookName() + " Gr. " + holding.getCode() + "  (" + (holding.getMatches().indexOf(this) + 1) + ")";
+    }
+
     public Match() {
     }
 

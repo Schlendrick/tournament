@@ -1,6 +1,5 @@
 package ch.fcappenzell.gruempeli.administration.tools.tournament.model.holding;
 
-import ch.fcappenzell.gruempeli.administration.tools.tournament.model.GameModelVisitor;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Round;
 import javafx.beans.property.SimpleStringProperty;
@@ -81,10 +80,6 @@ public class Holding {
 
     public void setMatches(List<Match> matches) {
         this.matches = matches;
-    }
-
-    public void accept(GameModelVisitor visitor) {
-        visitor.visit(this);
     }
 
     @Override
