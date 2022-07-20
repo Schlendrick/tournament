@@ -5,6 +5,7 @@ import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLMatch;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.XMLTournamentSchedule;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.DocumentService;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.service.impl.FileUploadServiceImpl;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.spring.config.AppConfig;
 import javafx.fxml.FXML;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
@@ -55,8 +56,11 @@ public class MainController {
     public final PlanerController planerController;
     public final TeamsTableController teamsTableController;
 
+    private AppConfig appConfig;
+
     @Autowired
-    public MainController(PlanerController planerController, TeamsTableController teamsTableController) {
+    public MainController(PlanerController planerController, TeamsTableController teamsTableController, AppConfig appConfig) {
+        this.appConfig = appConfig;
         this.planerController = planerController;
         this.teamsTableController = teamsTableController;
     }
@@ -75,12 +79,12 @@ public class MainController {
                 return;
             }
 
-            String absolutePath = file.getAbsolutePath();
-            // TODO dbHandler.connect(absolutePath);
+            appConfig.setUrl(file.getAbsolutePath());
+            path.setText(file.getAbsolutePath());
             planerController.updateMatches();
             teamsTableController.updateTeams();
 
-            path.setText(absolutePath);
+
         });
 
         closeDataBase.setOnAction(e -> {

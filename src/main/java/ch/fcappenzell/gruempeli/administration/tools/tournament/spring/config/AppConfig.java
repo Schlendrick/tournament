@@ -18,18 +18,21 @@ public class AppConfig {
     @Autowired
     Environment environment;
 
-    private final String URL = "url";
+    private final String DRIVER = "net.ucanaccess.jdbc.UcanaccessDriver";
     private final String USER = "dbuser";
-    private final String DRIVER = "driver";
     private final String PASSWORD = "dbpassword";
 
+    DriverManagerDataSource driverManagerDataSource;
+
+    public void setUrl(String url) {
+        driverManagerDataSource.setUrl("jdbc:ucanaccess://"+url+";openExclusive=false;ignoreCase=true");
+    }
     @Bean
-    DataSource dataSource() {
-        DriverManagerDataSource driverManagerDataSource = new DriverManagerDataSource();
-        driverManagerDataSource.setUrl(environment.getProperty(URL));
+    DataSource createDataSource() {
+        driverManagerDataSource = new DriverManagerDataSource();
         driverManagerDataSource.setUsername(environment.getProperty(USER));
         driverManagerDataSource.setPassword(environment.getProperty(PASSWORD));
-        driverManagerDataSource.setDriverClassName(environment.getProperty(DRIVER));
+        driverManagerDataSource.setDriverClassName(DRIVER);
         return driverManagerDataSource;
     }
 }
