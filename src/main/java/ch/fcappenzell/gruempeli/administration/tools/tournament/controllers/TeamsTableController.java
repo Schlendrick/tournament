@@ -102,6 +102,8 @@ public class TeamsTableController {
 
     public void updateTeams() {
 
+        clearView();
+
         TeamDAO teamDAO = context.getBean(TeamDAO.class);
 
         masterData.addAll(teamDAO.getAllTeams());

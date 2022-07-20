@@ -98,7 +98,6 @@ public class MainController {
         clear.setVisible(false);
         tabPane.getSelectionModel().selectedItemProperty().addListener(
                 (ov, oldTab, newTab) -> {
-                    System.out.println("Tab Selection changed to: "+ newTab.getId());
                     switch (newTab.getId()) {
                         case "teamsTableTab":
                             clear.setVisible(false);
