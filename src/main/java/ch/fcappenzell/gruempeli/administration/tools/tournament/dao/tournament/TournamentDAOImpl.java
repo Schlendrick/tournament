@@ -14,8 +14,6 @@ public class TournamentDAOImpl implements TournamentDAO{
 
     JdbcTemplate jdbcTemplate;
 
-    // TODO private final String SQL_FIND_TOURNAMENT = "select * from T_Variablen where id = ?";
-
     private final String SQL_FIND_TOURNAMENT = "select * from T_Variablen where id = ?";
     private final String SQL_DELETE_TOURNAMENT = "delete from T_Variablen where id = ?";
     private final String SQL_UPDATE_TOURNAMENT = "update T_Variablen set Titel = ?, AnzSpielfelder = ?, MinBreak = ? where id = ?";

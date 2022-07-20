@@ -3,6 +3,7 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.plane
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.match.Match;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.feeedback.MessageFeedbackProvider;
 import ch.fcappenzell.gruempeli.administration.tools.tournament.organizer.planer.validation.OrganizerInsertValidation;
+import ch.fcappenzell.gruempeli.administration.tools.tournament.service.MatchService;
 import javafx.collections.ObservableList;
 import javafx.scene.control.TableCell;
 import javafx.scene.control.TablePosition;
@@ -27,6 +28,9 @@ public class OrganizerEntryTableCell extends TableCell<PlayTime, Match> {
 
     @Autowired
     private MatchDragDropBoard customDragBoard;
+
+    @Autowired
+    MatchService matchService;
 
     private MessageFeedbackProvider feedbackProvider;
 
@@ -100,7 +104,7 @@ public class OrganizerEntryTableCell extends TableCell<PlayTime, Match> {
             items.get(row++).setMatch(Integer.parseInt(dropPoint.getTableColumn().getId()), match);
         }
 
-        // TODO dbHandler.updateMatches(new ArrayList<>(droppedItems));
+        matchService.updateMatches(new ArrayList<>(droppedItems));
     }
 
     private OrganizerResult analyzeDropEvent(DragEvent e, List<Match> droppedItems) {

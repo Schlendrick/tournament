@@ -99,13 +99,11 @@ public class MainController {
         clear.setDisable(true);
 
         clear.setOnAction(e -> {
-            //TODO
-           // UpdateCleanMatchScheduling update = new UpdateCleanMatchScheduling();
+            planerController.deleteMatchSchedule();
         });
 
         upload.setOnAction(e -> {
-            //List<Match> matchList = dbHandler.getMatches();
-            //this.writeMatches(matchList);
+            this.writeMatches(planerController.getMatchList());
         });
 
         preferences.setOnAction(e -> {

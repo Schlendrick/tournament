@@ -78,6 +78,7 @@ public class OrganizerDayView extends TableView<PlayTime> {
 
     public TableColumn<PlayTime, String> createTimeColumn() {
         TableColumn<PlayTime, String> timeCol = new TableColumn<>("Zeit");
+        timeCol.setMaxWidth(2000);
         timeCol.setCellFactory(param -> new TextFieldTableCell<>());
         timeCol.setCellValueFactory(param ->
                 new SimpleObjectProperty<>(param.getValue().start.format(DateTimeFormatter.ISO_LOCAL_TIME)));
@@ -120,30 +121,6 @@ public class OrganizerDayView extends TableView<PlayTime> {
                 .filter(p -> p.start.equals(m.getTime()))
                 .findFirst()
                 .ifPresent(p -> p.setMatch(m.getField(), m));
-    }
-
-    private void addKeyActions() {
-        setOnKeyPressed(event -> {
-            if (event.getCode() == KeyCode.DELETE) {
-
-                List<Match> matches = new ArrayList<>();
-                List<SimpleObjectProperty<Match>> matcheProperties = new ArrayList<>();
-
-                for (TablePosition pos : getSelectionModel().getSelectedCells()) {
-                    SimpleObjectProperty<Match> match = getItems().get(pos.getRow()).getMatch(pos.getColumn());
-                    matcheProperties.add(match);
-
-                    if (match.get() != null) {
-                        matches.add(match.get());
-                    }
-                }
-
-                // TODO dbHandler.clearMatches(matches);
-
-                matcheProperties.forEach(match -> match.set(null));
-                openMatchesViewUpdater.run();
-            }
-        });
     }
 
     private void initDragDrop() {

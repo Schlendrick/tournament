@@ -3,8 +3,11 @@ package ch.fcappenzell.gruempeli.administration.tools.tournament.model.arrangeme
 import ch.fcappenzell.gruempeli.administration.tools.tournament.model.team.Team;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
+import javafx.collections.FXCollections;
+import javafx.scene.paint.Color;
 
 import java.util.List;
+import java.util.Random;
 
 public class Category {
 
@@ -14,13 +17,54 @@ public class Category {
     public List<Team> teams;
     private String color;
 
-    public Category(String code, String name, String description) {
-        setCode(code);
-        setName(name);
-        setDescription(description);
-    }
+    List<Color> colors = FXCollections.observableArrayList( //todo color picker
+    Color.MOCCASIN,
+    Color.NAVAJOWHITE,
+    Color.NAVY,
+    Color.OLDLACE,
+    Color.OLIVE,
+    Color.OLIVEDRAB,
+    Color.ORANGE,
+    Color.ORANGERED,
+    //Color.ORCHID,
+    Color.PALEGOLDENROD,
+    Color.PALEGREEN,
+    Color.PALETURQUOISE,
+    Color.PALEVIOLETRED,
+    Color.PAPAYAWHIP,
+    Color.PEACHPUFF,
+    Color.PERU,
+    Color.PINK,
+    Color.PLUM,
+    Color.POWDERBLUE,
+    Color.PURPLE,
+    Color.RED,
+    Color.ROSYBROWN,
+    Color.ROYALBLUE,
+    Color.SADDLEBROWN,
+    Color.SALMON,
+    Color.SANDYBROWN,
+    Color.SEAGREEN,
+    Color.SEASHELL,
+    Color.SIENNA,
+    Color.SILVER,
+    Color.SKYBLUE,
+    Color.SLATEBLUE,
+    Color.SLATEGRAY,
+    Color.SLATEGREY,
+    Color.SNOW,
+    Color.SPRINGGREEN,
+    Color.STEELBLUE,
+    Color.TAN,
+    Color.TEAL,
+    Color.THISTLE,
+    Color.TOMATO
+
+    );
+
 
     public Category() {
+
     }
 
     public String getCode() {
@@ -56,11 +100,23 @@ public class Category {
     }
 
     public String getColor() {
-        return color;
+        Random rand = new Random(stringToSeed(this.name));
+        return colors.get(rand.nextInt(colors.size())).toString();
     }
 
     public void setColor(String color) {
         this.color = color;
+    }
+
+    static long stringToSeed(StringProperty s) {
+        if (s == null) {
+            return 0;
+        }
+        long hash = 0;
+        for (char c : s.toString().toCharArray()) {
+            hash = 31L*hash + c;
+        }
+        return hash;
     }
 
     @Override
