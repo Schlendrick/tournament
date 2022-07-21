@@ -16,7 +16,7 @@ public class EmailServiceImpl implements EmailService {
 
         Session mailSession = Session.getDefaultInstance(props, null);
         InputStream source = new FileInputStream(emlFile);
-        MimeMessage message = new MimeMessage(mailSession);
+        MimeMessage message = new MimeMessage(mailSession,source);
 
 
         System.out.println("Subject : " + message.getSubject());
